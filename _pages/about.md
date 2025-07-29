@@ -1,7 +1,7 @@
 ---
-layout: Home
+layout: about
 title: Home
-permalink: /
+permalink: https://canng.github.io/
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
