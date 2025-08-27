@@ -1,8 +1,9 @@
 ---
 layout: about
-title: 🏠Home 
+title: 🏠 
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Junior Researcher in Environmental Geography & Geoinformatics
+
 
 profile:
   align: right
@@ -10,10 +11,10 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Room 1602, Environment Centre, Charles University</p>
-    <p>José Martího 407/2, 16200 Praha 6-Veleslavín</p>
-    <p>Prague, Czech Republic</p>
+    <p>José Martího 407/2, 16200 Prague</p>
+    <p>Czech Republic</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -21,10 +22,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-#latest_posts:
-#  enabled: true
-#  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-#  limit: 3 # leave blank to include all the blog posts
+latest_posts:
+  enabled: false
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
 <b>Can T. Nguyen</b> is a junior scientist. He is currently working as a researcher at Environmental Footprint Lab, <a href="https://czp.cuni.cz/en/">Charles University Environment Centre</a> (CZP) under the project of <a href="https://czp.cuni.cz/en/projects/pathways-towards-environmental-sustainability-gacr-expro-2023-2027">Pathways towards Environmental Sustainability (GAČR EXPRO; 2023–2027)</a> with <a href="https://czp.cuni.cz/en/about-us/staff/jan-weinzettel">Dr. Jan Weinzettel</a> and <a href="https://czp.cuni.cz/en/about-us/staff/davina-vackarova">Dr. Davina Vačkářová</a>.<br>
