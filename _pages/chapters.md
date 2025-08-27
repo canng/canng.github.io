@@ -3,7 +3,7 @@ layout: page
 permalink: /chapters/
 title: Book chapter
 description: For a complete list and updated publications, please visit my Google Scholar
-nav: true
+nav: false
 #nav_order: 3
 ---
 
