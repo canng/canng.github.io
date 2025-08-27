@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
+title: Publications
 nav: true
 nav_order: 3
 dropdown: true
 children:
-  - title: chapter
-    permalink: /chapters/
-  - title: publications
+  - title: Articles
     permalink: /publications/
+  - title: Book Chapters
+    permalink: /chapters/
   - title: divider
 ---
