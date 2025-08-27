@@ -6,7 +6,7 @@ nav_order: 3
 dropdown: true
 children:
   - title: chapter
-    permalink: /chapter/
+    permalink: /chapters/
   - title: publications
     permalink: /publications/
   - title: divider
