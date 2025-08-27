@@ -10,7 +10,7 @@ profile:
   image: cannguyen_czp.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 1602, Environment Centre, Charles University</p>
+    <p>Environment Centre, Charles University</p>
     <p>José Martího 407/2</p>
     <p>16200 Prague, Czech Republic</p>
 
