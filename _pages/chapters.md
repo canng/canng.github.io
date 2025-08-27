@@ -11,10 +11,8 @@ nav: false
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
-
 <div class="publications">
 
-{% bibliography %}
+{% bibbook %}
 
 </div>
