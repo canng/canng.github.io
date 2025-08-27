@@ -23,16 +23,28 @@
   },
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Environmental Geography & Geoinformatics",
+      "icon": "fa-solid fa-earth-asia"
+    },
+    {
+      "name": "Land Change Science",
+      "icon": "fa-solid fa-mountain"
+    },
+    {
+      "name": "Human - Environment interactions",
+      "icon": "fa-solid fa-people-robbery"
+    },
+    {
+      "name": "Environment & Natural Resources Management",
+      "icon": "fa-solid fa-house-flood-water"
+    },
+    {
+      "name": "Urbanization - Planning - Urban Microclimate Changes",
+      "icon": "fa-solid fa-tree-city"
+    },
+    {
+      "name": "Environmental Sustainability; Ecosystem Services",
+      "icon": "fa-solid fa-seedling"
     }
   ],
   "education": [
@@ -103,16 +115,45 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Remote sensing",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-satellite",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "ENVI",
+        "Ecognition",
+        "SNAP",
+        "Google Earth Engine"
+      ]
+    },
+    {
+      "name": "GIS",
+      "level": "Master",
+      "icon": "fa-solid fa-globe",
+      "keywords": [
+        "ArcGIS",
+        "QGIS",
+        "MapInfo",
+        "Global Mapper"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "R",
+        "GEE",
+        "Python"
+      ]
+    },
+    {
+      "name": "Statistics & Data Analysis",
+      "level": "Master",
+      "icon": "fa-solid fa-chart-column",
+      "keywords": [
+        "R",
+        "SPSS",
+        "Excel"
       ]
     }
   ],
