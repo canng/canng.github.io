@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/homepage/projects/";
           },
-        },{id: "nav-book-chapter",
-          title: "Book chapter",
-          description: "For a complete list and updated publications, please visit my Google Scholar",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/homepage/chapters/";
-          },
         },{id: "dropdown-chapter",
               title: "chapter",
               description: "",
@@ -44,14 +37,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/homepage/publications/";
               },
-            },{id: "nav-publications",
-          title: "Publications",
-          description: "For a complete list and updated publications, please visit my Google Scholar",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/homepage/publications/";
-          },
-        },{id: "nav-repositories",
+            },{id: "nav-repositories",
           title: "Repositories",
           description: "",
           section: "Navigation",
