@@ -83,7 +83,7 @@
       "endDate": "2023-08-01"
     },
     {
-      "name": "Joint Graduate School of Energy and Environment (JGSEE), King Mongkut’s University of Technology Thonburi, Thailand",
+      "name": "Joint Graduate School of Energy and Environment (JGSEE), King Mongkut's University of Technology Thonburi, Thailand",
       "position": "Research Assistant",
       "url": "https://www.jgsee.kmutt.ac.th/v3/",
       "startDate": "2019-08-01",
@@ -107,11 +107,53 @@
   "certificates": [
     {
       "name": "Accessing and Analyzing Air Quality Data from Geostationary",
-      "date": "2022-10-011",
-      "issuer": "NASA's Applied Remote Sensing Training (ARSET) Program",
-      "url": "https://canng.github.io/homepage/cv/",
+      "date": "2022-10-01",
+      "issuer": "NASA's ARSET Program",
+      "url": "https://www.earthdata.nasa.gov/data/projects/arset",
+      "icon": "fa-solid fa-satellite-dish"
+    },
+    {
+      "name": "Bioclimatic Architecture: Principle and Best Practices",
+      "date": "2022-06-01",
+      "issuer": "ADEME, DSTE, MOC, EEN",
+      "url": "",
+      "icon": "fa-solid fa-tree-city"
+    },
+    {
+      "name": "Remote Sensing Land use/cover Change and Climate Impacts in Coastal Zone",
+      "date": "2019-12-01",
+      "issuer": "SARI, NASA, PSU",
+      "url": "",
+      "icon": "fa-solid fa-database"
+    },
+    {
+      "name": "Google Earth Engine Training",
+      "date": "2018-10-01",
+      "issuer": "SERVIR Mekong",
+      "url": "",
+      "icon": "fa-solid fa-code"
+    },
+    {
+      "name": "GeoServices-4-Sustainability: Smart City | GIS for Health",
+      "date": "2018-03-01",
+      "issuer": "University of Salzburg, Nanjing Normal University",
+      "url": "",
       "icon": "fa-solid fa-location-dot"
-    }
+    },
+    {
+      "name": "Methods and Practices for Analyzing Local Ecological Knowledge",
+      "date": "2016-12-01",
+      "issuer": "SEDES IJL & HCM University of Science",
+      "url": "",
+      "icon": "fa-solid fa-people-roof"
+    },
+    {
+      "name": "Ecosystem-based Adaptation Approach for Sustainable Management and Governance of Coastal Ecosystems (ENGAGE)",
+      "date": "2016-11-01",
+      "issuer": "AIT-Vietnam",
+      "url": "",
+      "icon": "fa-solid fa-leaf"
+    }    
   ],
   "skills": [
     {
