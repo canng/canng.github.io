@@ -107,49 +107,49 @@
   "certificates": [
     {
       "name": "Accessing and Analyzing Air Quality Data from Geostationary",
-      "date": "2022-10-01",
+      "date": "2022-10",
       "issuer": "NASA's ARSET Program",
       "url": "https://www.earthdata.nasa.gov/data/projects/arset",
       "icon": "fa-solid fa-satellite-dish"
     },
     {
       "name": "Bioclimatic Architecture: Principle and Best Practices",
-      "date": "2022-06-01",
+      "date": "2022-06",
       "issuer": "ADEME, DSTE, MOC, EEN",
       "url": "",
       "icon": "fa-solid fa-tree-city"
     },
     {
       "name": "Remote Sensing Land use/cover Change and Climate Impacts in Coastal Zone",
-      "date": "2019-12-01",
-      "issuer": "SARI, NASA, PSU",
+      "date": "2019-12",
+      "issuer": "SARI, NASA, Price of Songkhla University",
       "url": "",
       "icon": "fa-solid fa-database"
     },
     {
       "name": "Google Earth Engine Training",
-      "date": "2018-10-01",
+      "date": "2018-10",
       "issuer": "SERVIR Mekong",
       "url": "",
       "icon": "fa-solid fa-code"
     },
     {
       "name": "GeoServices-4-Sustainability: Smart City | GIS for Health",
-      "date": "2018-03-01",
+      "date": "2018-03",
       "issuer": "University of Salzburg, Nanjing Normal University",
       "url": "",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Methods and Practices for Analyzing Local Ecological Knowledge",
-      "date": "2016-12-01",
-      "issuer": "SEDES IJL & HCM University of Science",
+      "date": "2016-12",
+      "issuer": "SEDES IJL & HCMC University of Science",
       "url": "",
       "icon": "fa-solid fa-people-roof"
     },
     {
       "name": "Ecosystem-based Adaptation Approach for Sustainable Management and Governance of Coastal Ecosystems (ENGAGE)",
-      "date": "2016-11-01",
+      "date": "2016-11",
       "issuer": "AIT-Vietnam",
       "url": "",
       "icon": "fa-solid fa-leaf"

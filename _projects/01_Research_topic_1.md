@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Urbanization & Urban environments
-description: with background image
+title: Urban Environments
+description: 
 img: assets/img/Research_Project/RFs_Urban_environment.jpg
 importance: 1
-category: Research 
+category: Research Topics
 related_publications: false
 ---
+
+
 
