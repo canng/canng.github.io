@@ -451,11 +451,26 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-urbanization-amp-urban-environments",
-          title: 'Urbanization &amp;amp; Urban environments',
-          description: "with background image",
+          section: "News",},{id: "projects-urban-environments",
+          title: 'Urban Environments',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/01_Research_topic_R/";
+              window.location.href = "/homepage/projects/01_Research_topic_1/";
+            },},{id: "projects-geoinformatic-applications",
+          title: 'Geoinformatic Applications',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/homepage/projects/01_Research_topic_2/";
+            },},{id: "projects-social-ecological-systems",
+          title: 'Social-Ecological Systems',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/homepage/projects/01_Research_topic_3/";
+            },},{id: "projects-ecological-environments",
+          title: 'Ecological Environments',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/homepage/projects/01_Research_topic_4/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
