@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Can T. Nguyen
     - name: Date of Birth
-      value: 14th March 1879
+      value: 8th December 1993
     - name: Languages
-      value: English, German
+      value: English, Vietnamese
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: The Joint Graduate School of Energy and Environment, King Mongkut's University of Technology Thonburi, Thailand
+      year: 2019-2022
       description:
         - Description 1.
         - Description 2.

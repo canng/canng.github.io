@@ -11,8 +11,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Room 1602, Environment Centre, Charles University</p>
-    <p>José Martího 407/2, 16200 Prague</p>
-    <p>Czech Republic</p>
+    <p>José Martího 407/2</p>
+    <p>16200 Prague, Czech Republic</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
