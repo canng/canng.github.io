@@ -52,8 +52,8 @@
       "institution": "King Mongkut's University of Technology Thonburi (KMUTT)",
       "location": "Bangkok, Thailand",
       "url": "https://www.jgsee.kmutt.ac.th/v3",
-      "area": "Environmental Technology",
-      "studyType": "PhD",
+      "area": "",
+      "studyType": "Ph.D. Environmental Technology",
       "startDate": "2019-07-01",
       "endDate": "2022-07-31"
     },
@@ -61,43 +61,43 @@
       "institution": "Can Tho University",
       "location": "Can Tho, Vietnam",
       "url": "https://en.ctu.edu.vn/",
-      "area": "Land Management",
-      "studyType": "B.Eng",
+      "area": "",
+      "studyType": "B.Eng. Land Management",
       "startDate": "2012-08-01",
       "endDate": "2016-03-01"
     }
   ],
   "work": [
     {
-      "name": "Environment Centre, Charles University",
+      "name": "Environment Centre, Charles University, Czechia",
       "position": "Postdoctoral Researcher",
       "url": "https://czp.cuni.cz/en/",
       "startDate": "2023-10-13",
       "endDate": ""
     },
     {
-      "name": "Prince of Songkhla University | Geo-Informatics & Space Technology Development Agency",
+      "name": "Prince of Songkhla University | Geo-Informatics & Space Technology Development Agency, Thailand",
       "position": "Researcher",
       "url": "https://www.psu.ac.th/en/",
       "startDate": "2022-08-01",
       "endDate": "2023-08-01"
     },
     {
-      "name": "Joint Graduate School of Energy and Environment (JGSEE), King Mongkut’s University of Technology Thonburi",
+      "name": "Joint Graduate School of Energy and Environment (JGSEE), King Mongkut’s University of Technology Thonburi, Thailand",
       "position": "Research Assistant",
       "url": "https://www.jgsee.kmutt.ac.th/v3/",
       "startDate": "2019-08-01",
       "endDate": "2022-08-01"
     },
     {
-      "name": "Land Resources Department, Can Tho University",
+      "name": "Land Resources Department, Can Tho University, Vietnam",
       "position": "Research & Teaching Assistant",
       "url": "https://lrd.ctu.edu.vn/",
       "startDate": "2016-03-01",
       "endDate": "2019-07-31"
     },
     {
-      "name": "KMUTT Geospatial Engineering and Innovation Center (KGEO)",
+      "name": "KMUTT Geospatial Engineering and Innovation Center (KGEO), Thailand",
       "position": "Visiting Researcher",
       "url": "http://kgeo.org/kgeo/",
       "startDate": "2017-12-01",
@@ -106,10 +106,10 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Accessing and Analyzing Air Quality Data from Geostationary",
+      "date": "2022-10-011",
+      "issuer": "NASA's Applied Remote Sensing Training (ARSET) Program",
+      "url": "https://canng.github.io/homepage/cv/",
       "icon": "fa-solid fa-location-dot"
     }
   ],
@@ -161,12 +161,12 @@
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": "🔵🔵🔵🔵⚪"
+      "icon": "fa-solid fa-comments"
     },
     {
       "language": "Vietnamese",
       "fluency": "Native",
-      "icon": "🔵🔵🔵🔵🔵"
+      "icon": "fa-solid fa-language"
     }
   ]
 }
