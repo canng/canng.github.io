@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/homepage/";
     },
-  },{id: "nav-blog",
-          title: "blog",
+  },{id: "nav-cv",
+          title: "cv",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/homepage/blog/";
+            window.location.href = "/homepage/cv/";
           },
         },{id: "nav-publications",
           title: "publications",
@@ -37,12 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/homepage/repositories/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/homepage/cv/";
+            window.location.href = "/homepage/blog/";
           },
         },{id: "nav-teaching",
           title: "teaching",
