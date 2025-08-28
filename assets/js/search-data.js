@@ -95,92 +95,62 @@ ninja.data = [{
           title: 'Urban Environments',
           description: "Urbanization, Urban Expansion Modeling, Urban Heat Islands",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/01_Research_topic_1/";
+              window.location.href = "/projects/11_Research_topic_Built/";
             },},{id: "projects-geoinformatic-applications",
           title: 'Geoinformatic Applications',
           description: "Spectral Index, Remote Sensing and GIS Applications in Environment and Natural Resources",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/01_Research_topic_2/";
+              window.location.href = "/projects/12_Research_topic_RSGIS/";
             },},{id: "projects-social-ecological-systems",
           title: 'Social-Ecological Systems',
           description: "Ecosystem Services, Social Perception, Livelihood",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/01_Research_topic_3/";
+              window.location.href = "/projects/13_Research_topic_ESS/";
             },},{id: "projects-ecological-environments",
           title: 'Ecological Environments',
           description: "Biodiversity, Ecological Environment, Conservation, Ecological Assessments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/01_Research_topic_4/";
-            },},{id: "projects-vnu-hcm-c2024-16-19",
-          title: 'VNU-HCM-C2024-16-19',
-          description: "Assessing Shifting Agriculture Land Use Structure to Adapt to Changes in Flood and Drought-Saline Intrusion Regimes in the Vietnam Mekong Delta [2024-2025]",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/02_Project_AGU_Flood_Drought/";
-            },},{id: "projects-vnu-hcm-c2024-16-07",
-          title: 'VNU-HCM-C2024-16-07',
-          description: "Assessing the situation of rural urbanization in the Long Xuyen Quadrangle under the impact of flood prevention dikes [2024-2025]",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/02_Project_AGU_Rural_Urbanization/";
+              window.location.href = "/projects/14_Research_topic_Eco/";
             },},{id: "projects-gacr-expro-23-07984x",
           title: 'GACR EXPRO-23-07984X',
           description: "Pathways towards Environmental Sustainability (2023–2027)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/02_Project_GACR/";
-            },},{id: "projects-cbas-ait-gistda",
-          title: 'CBAS (AIT-GISTDA)',
-          description: "Integrated Assessment of SDGs for Bangkok Metropolitan Region (BMR) and Eastern Economic Corridor (EEC) based on Earth-Observation and Space Technology [2022-2025, resigned from 2023]",
+              window.location.href = "/projects/21_Project_GACR/";
+            },},{id: "projects-vnu-hcm-c2024-16-07",
+          title: 'VNU-HCM-C2024-16-07',
+          description: "Assessing the situation of rural urbanization in the Long Xuyen Quadrangle under the impact of flood prevention dikes [2024-2025]",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/03_Project_CBAS_SDGs/";
+              window.location.href = "/projects/22_Project_AGU_Rural_Urbanization/";
+            },},{id: "projects-vnu-hcm-c2024-16-19",
+          title: 'VNU-HCM-C2024-16-19',
+          description: "Assessing Shifting Agriculture Land Use Structure to Adapt to Changes in Flood and Drought-Saline Intrusion Regimes in the Vietnam Mekong Delta [2024-2025]",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/23_Project_AGU_Flood_Drought/";
             },},{id: "projects-cgiar-c-2022-105",
           title: 'CGIAR-C-2022-105',
-          description: "Securing the food system of Asian mega-deltas for Climate and Livelihood resilience [2023]",
+          description: "Securing the food system of Asian mega-deltas for Climate and Livelihood resilience; Funded by CGIAR [2023]",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/03_Project_CGIAR/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+              window.location.href = "/projects/31_Project_CGIAR/";
+            },},{id: "projects-cbas-ait-gistda",
+          title: 'CBAS (AIT-GISTDA)',
+          description: "Integrated Assessment of SDGs for Bangkok Metropolitan Region (BMR) and Eastern Economic Corridor (EEC) based on Earth-Observation and Space Technology; Funded by CBAS Global SDG Partnership [2022-2025, resigned from 2023]",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/32_Project_CBAS_SDGs/";
+            },},{id: "projects-so-cool-kmutt-plan",
+          title: 'So COOL KMUTT Plan',
+          description: "Funded by KMUTT Steering Committee for Carbon Neutrality by 2040 [2021]",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/33_Project_SoCool/";
+            },},{id: "projects-ctu-jica-oda",
+          title: 'CTU-JICA ODA',
+          description: "Can Tho University Improvement Project [2017-2021]",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/34_Project_CTU_ODA/";
+            },},{id: "projects-ctu-2017-39",
+          title: 'CTU-2017-39',
+          description: "Solution for Cloud removal on MODIS time series to Assess Variations of Rice crop Structures in the Mekong Delta region, Vietnam; Funded by Can Tho University [2017-2018],",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/35_Project_Cloud/";
             },},{
         id: 'social-email',
         title: 'email',
