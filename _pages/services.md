@@ -9,13 +9,11 @@ nav_order: 4
 
 <br>
 
-## Academic services 
-
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/review_banner.png" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/review_banner.png" title="" %}
     </div>
 </div>
 
@@ -140,4 +138,3 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
 
 <hr>
 
-</div>
