@@ -9,12 +9,12 @@ categories: work
 
 <hr>
 
-## Designing Resilient Cities: Landscape-Based Architecture and Green Space Strategies for Urban Sustainability </h2>
+## **Designing Resilient Cities: Landscape-Based Architecture and Green Space Strategies for Urban Sustainability**
 
 <br>
 
 <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/post_pics/SI_sustainability_logo.jpg" width="20%" %}
+    {% include figure.liquid path="assets/img/post_pics/SI_sustainability_logo.jpg" width="40%" %}
 </div>
 
 <br>
