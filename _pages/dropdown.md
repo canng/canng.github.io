@@ -1,11 +1,15 @@
 ---
 layout: page
-title: submenus
-nav: false
-nav_order: 8
+title: Submenus
+nav: true
+nav_order: 7
 dropdown: true
 children:
-  - title: Blog
-    permalink: /blog/
+  - title: SDGs
+    permalink: /sdgs/
+  - title: Gallery
+    permalink: /gallery/
+  - title: Repositories
+    permalink: /repositories/
   - title: divider
 ---
