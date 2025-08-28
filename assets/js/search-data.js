@@ -7,56 +7,56 @@ ninja.data = [{
     title: "🏠",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/homepage/";
+      window.location.href = "/";
     },
   },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/homepage/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "nav-research",
           title: "Research",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/homepage/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-publications",
           title: "Publications",
           description: "For a complete list and updated publications, please visit my Google Scholar",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/homepage/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-services",
           title: "Services",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/homepage/services/";
+            window.location.href = "/services/";
           },
         },{id: "nav-news",
           title: "News",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/homepage/blog/";
+            window.location.href = "/blog/";
           },
         },{id: "nav-contact",
           title: "Contact",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/homepage/contact/";
+            window.location.href = "/contact/";
           },
         },{id: "nav-repositories",
           title: "Repositories",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/homepage/repositories/";
+            window.location.href = "/repositories/";
           },
         },{id: "post-special-issues-on-designing-resilient-cities",
         
@@ -66,14 +66,14 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/homepage/blog/2025/SI-Sustainability/";
+            window.location.href = "/blog/2025/SI-Sustainability/";
           
         },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/homepage/books/the_godfather/";
+              window.location.href = "/books/the_godfather/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -81,92 +81,92 @@ ninja.data = [{
           title: 'Urban Environments',
           description: "Urbanization, Urban Expansion Modeling, Urban Heat Islands",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/01_Research_topic_1/";
+              window.location.href = "/projects/01_Research_topic_1/";
             },},{id: "projects-geoinformatic-applications",
           title: 'Geoinformatic Applications',
           description: "Spectral Index, Remote Sensing and GIS Applications in Environment and Natural Resources",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/01_Research_topic_2/";
+              window.location.href = "/projects/01_Research_topic_2/";
             },},{id: "projects-social-ecological-systems",
           title: 'Social-Ecological Systems',
           description: "Ecosystem Services, Social Perception, Livelihood",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/01_Research_topic_3/";
+              window.location.href = "/projects/01_Research_topic_3/";
             },},{id: "projects-ecological-environments",
           title: 'Ecological Environments',
           description: "Biodiversity, Ecological Environment, Conservation, Ecological Assessments",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/01_Research_topic_4/";
+              window.location.href = "/projects/01_Research_topic_4/";
             },},{id: "projects-vnu-hcm-c2024-16-19",
           title: 'VNU-HCM-C2024-16-19',
           description: "Assessing Shifting Agriculture Land Use Structure to Adapt to Changes in Flood and Drought-Saline Intrusion Regimes in the Vietnam Mekong Delta [2024-2025]",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/02_Project_AGU_Flood_Drought/";
+              window.location.href = "/projects/02_Project_AGU_Flood_Drought/";
             },},{id: "projects-vnu-hcm-c2024-16-07",
           title: 'VNU-HCM-C2024-16-07',
           description: "Assessing the situation of rural urbanization in the Long Xuyen Quadrangle under the impact of flood prevention dikes [2024-2025]",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/02_Project_AGU_Rural_Urbanization/";
+              window.location.href = "/projects/02_Project_AGU_Rural_Urbanization/";
             },},{id: "projects-gacr-expro-23-07984x",
           title: 'GACR EXPRO-23-07984X',
           description: "Pathways towards Environmental Sustainability (2023–2027)",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/02_Project_GACR/";
+              window.location.href = "/projects/02_Project_GACR/";
             },},{id: "projects-cbas-ait-gistda",
           title: 'CBAS (AIT-GISTDA)',
           description: "Integrated Assessment of SDGs for Bangkok Metropolitan Region (BMR) and Eastern Economic Corridor (EEC) based on Earth-Observation and Space Technology [2022-2025, resigned from 2023]",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/03_Project_CBAS_SDGs/";
+              window.location.href = "/projects/03_Project_CBAS_SDGs/";
             },},{id: "projects-cgiar-c-2022-105",
           title: 'CGIAR-C-2022-105',
           description: "Securing the food system of Asian mega-deltas for Climate and Livelihood resilience [2023]",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/03_Project_CGIAR/";
+              window.location.href = "/projects/03_Project_CGIAR/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/1_project/";
+              window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/2_project/";
+              window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/3_project/";
+              window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/4_project/";
+              window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/5_project/";
+              window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/6_project/";
+              window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/7_project/";
+              window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/8_project/";
+              window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/9_project/";
+              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',

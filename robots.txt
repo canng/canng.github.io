@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://canng.github.io/homepage/sitemap.xml
+Sitemap: https://canng.github.io/sitemap.xml
