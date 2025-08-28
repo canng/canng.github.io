@@ -9,6 +9,8 @@ children:
     permalink: /sdgs/
   - title: Gallery
     permalink: /gallery/
+  - title: Gallery
+    permalink: https://canng.github.io/geonate/
   - title: Repositories
     permalink: /repositories/
   - title: divider

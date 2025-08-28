@@ -4,7 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - canng/geonate
   - canng/RSASE_cnnTropiTrees
   - canng/MBI-Modified_Baresoil_Index
-  - canng/geonate
   - canng/AgriBIIFP
