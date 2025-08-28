@@ -12,10 +12,10 @@ nav_order: 5
         Room 1602, Environment Centre <br>
         Charles University <br>
         José Martího 407/2 <br>
-        16200 Praha 6 <br>
+        16200 Praha 6-Veleslavín <br>
         Czech Republic </p>
-        <span class="fa-solid fa-square-phone"></span> (+420) 773-705-812 <br>
-        <i class="fa-solid fa-envelope"></i>trongcan.ng@gmail.com
+        <span class="fa-solid fa-square-phone"></span> (420) 773 705 812 <br>
+        <i class="fa-solid fa-envelope"></i> trongcan.ng@gmail.com
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/CZP_CUNI.jpg" title="czp" class="img-fluid rounded z-depth-1" zoomable=true %}
