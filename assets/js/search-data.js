@@ -65,6 +65,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/gallery/";
               },
+            },{id: "dropdown-gallery",
+              title: "Gallery",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "https://canng.github.io/geonate/";
+              },
             },{id: "dropdown-repositories",
               title: "Repositories",
               description: "",
