@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Social-Ecological Systems
-description: 
+description: Ecosystem Services, Social Perception, Livelihood
 img: assets/img/Research_Project/RFs_Ecosystem_services_ugs.jpg
 redirect: https://canng.github.io/homepage/projects/
 importance: 3

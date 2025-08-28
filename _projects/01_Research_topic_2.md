@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Geoinformatic Applications
-description: 
+description: Spectral Index, Remote Sensing and GIS Applications in Environment and Natural Resources
 img: assets/img/Research_Project/RFs_Remote_sensing.jpg
 redirect: https://canng.github.io/homepage/projects/
 importance: 2
