@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/homepage/publications/";
           },
-        },{id: "nav-news",
-          title: "News",
+        },{id: "nav-services",
+          title: "Services",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/homepage/blog/";
+            window.location.href = "/homepage/services/";
           },
         },{id: "nav-contact",
           title: "Contact",
@@ -43,6 +43,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/homepage/contact/";
+          },
+        },{id: "nav-news",
+          title: "News",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/homepage/blog/";
           },
         },{id: "nav-repositories",
           title: "Repositories",
@@ -110,13 +117,13 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/homepage/projects/01_Research_topic_4/";
             },},{id: "projects-vnu-hcm-c2024-16-19",
-          title: 'VNU-HCM -C2024-16-19',
-          description: "Assessing Shifting Agriculture Land Use Structure to Adapt to Changes in Flood and Drought-Saline Intrusion Regimes in the Vietnam Mekong Delta",
+          title: 'VNU-HCM-C2024-16-19',
+          description: "Assessing Shifting Agriculture Land Use Structure to Adapt to Changes in Flood and Drought-Saline Intrusion Regimes in the Vietnam Mekong Delta [2024-2025]",
           section: "Projects",handler: () => {
               window.location.href = "/homepage/projects/02_Project_AGU_Flood_Drought/";
             },},{id: "projects-vnu-hcm-c2024-16-07",
-          title: 'VNU-HCM -C2024-16-07',
-          description: "Assessing the situation of rural urbanization in the Long Xuyen Quadrangle under the impact of flood prevention dikes",
+          title: 'VNU-HCM-C2024-16-07',
+          description: "Assessing the situation of rural urbanization in the Long Xuyen Quadrangle under the impact of flood prevention dikes [2024-2025]",
           section: "Projects",handler: () => {
               window.location.href = "/homepage/projects/02_Project_AGU_Rural_Urbanization/";
             },},{id: "projects-gacr-expro-23-07984x",
@@ -124,11 +131,16 @@ ninja.data = [{
           description: "Pathways towards Environmental Sustainability (2023–2027)",
           section: "Projects",handler: () => {
               window.location.href = "/homepage/projects/02_Project_GACR/";
+            },},{id: "projects-cbas-ait-gistda",
+          title: 'CBAS (AIT-GISTDA)',
+          description: "Integrated Assessment of SDGs for Bangkok Metropolitan Region (BMR) and Eastern Economic Corridor (EEC) based on Earth-Observation and Space Technology [2022-2025, resigned from 2023]",
+          section: "Projects",handler: () => {
+              window.location.href = "/homepage/projects/03_Project_CBAS_SDGs/";
             },},{id: "projects-cgiar-c-2022-105",
           title: 'CGIAR-C-2022-105',
-          description: "Securing the food system of Asian mega-deltas for Climate and Livelihood resilience",
+          description: "Securing the food system of Asian mega-deltas for Climate and Livelihood resilience [2023]",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/03_Project_1/";
+              window.location.href = "/homepage/projects/03_Project_CGIAR/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
