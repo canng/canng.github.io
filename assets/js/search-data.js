@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/homepage/";
     },
-  },{id: "nav-book-chapter",
-          title: "Book chapter",
-          description: "For a complete list and updated publications, please visit my Google Scholar",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/homepage/chapters/";
-          },
-        },{id: "nav-cv",
+  },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
@@ -30,21 +23,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/homepage/projects/";
           },
-        },{id: "dropdown-chapter",
-              title: "chapter",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/homepage/chapters/";
-              },
-            },{id: "dropdown-publications",
-              title: "publications",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/homepage/publications/";
-              },
-            },{id: "nav-repositories",
+        },{id: "nav-publications",
+          title: "Publications",
+          description: "For a complete list and updated publications, please visit my Google Scholar",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/homepage/publications/";
+          },
+        },{id: "nav-repositories",
           title: "Repositories",
           description: "",
           section: "Navigation",
