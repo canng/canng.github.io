@@ -7,19 +7,6 @@ nav_order: 5
 ---
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <div style="text-align:justify" markdown="1">
-        <p><b>Dr. Can T. Nguyen </b><br>
-        Room 1602, <br>
-        Environment Centre <br>
-        Charles University <br>
-        José Martího 407/2 <br>
-        16200 Praha 6-Veleslavín <br>
-        Czech Republic </p>
-        <span class="fa-solid fa-square-phone"></span> (+420) 773-705-812 <br>
-        <i class="fa-solid fa-envelope"></i> <trongcan.ng@gmail.com>
-        </div>
-    </div>
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/CZP_CUNI.jpg" title="czp" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -30,9 +17,9 @@ nav_order: 5
 <br>
 <br>
 
-#### Directions to the Environment Centre, Charles University:
+#### Directions to the Environment Centre
 
-<div id="map" style="width:90%; height:500px"></div>
+<div id="map" style="width:90%;height:500px"></div>
 
 <script>
 function myMap() {
