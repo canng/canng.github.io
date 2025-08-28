@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/homepage/cv/";
           },
-        },{id: "nav-research-amp-projects",
-          title: "Research &amp; Projects",
+        },{id: "nav-research",
+          title: "Research",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -425,24 +425,29 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-urban-environments",
           title: 'Urban Environments',
-          description: "",
+          description: "Urbanization, Urban Expansion Modeling, Urban Heat Islands",
           section: "Projects",handler: () => {
               window.location.href = "/homepage/projects/01_Research_topic_1/";
             },},{id: "projects-geoinformatic-applications",
           title: 'Geoinformatic Applications',
-          description: "",
+          description: "Spectral Index, Remote Sensing and GIS Applications in Environment and Natural Resources",
           section: "Projects",handler: () => {
               window.location.href = "/homepage/projects/01_Research_topic_2/";
             },},{id: "projects-social-ecological-systems",
           title: 'Social-Ecological Systems',
-          description: "",
+          description: "Ecosystem Services, Social Perception, Livelihood",
           section: "Projects",handler: () => {
               window.location.href = "/homepage/projects/01_Research_topic_3/";
             },},{id: "projects-ecological-environments",
           title: 'Ecological Environments',
-          description: "",
+          description: "Biodiversity, Ecological Environment, Conservation, Ecological Assessments",
           section: "Projects",handler: () => {
               window.location.href = "/homepage/projects/01_Research_topic_4/";
+            },},{id: "projects-ecological-environments",
+          title: 'Ecological Environments',
+          description: "Project aim is to determine the potential scenarios of future development in technology and consumption, which will ensure national footprints of all countries to be within the downscaled planetary boundaries.",
+          section: "Projects",handler: () => {
+              window.location.href = "/homepage/projects/02_Project_01/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
