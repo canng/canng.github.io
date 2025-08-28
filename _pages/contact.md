@@ -1,0 +1,33 @@
+---
+layout: page
+permalink: /contact/
+title: Contact
+nav: true
+nav_order: 5
+---
+
+### Directions to the Environment Centre, Charles University:
+
+<div id="map" style="width:90%;height:500px"></div>
+
+<script>
+function myMap() {
+  var myCenter = new google.maps.LatLng( 50.094025,14.341628);
+  var mapCanvas = document.getElementById("map");
+  var mapOptions = {center: myCenter, zoom: 15};
+  var map = new google.maps.Map(mapCanvas, mapOptions);
+  var marker = new google.maps.Marker({position:myCenter});
+  marker.setMap(map);
+
+  var infowindow = new google.maps.InfoWindow({
+  content: "1602 Krystal, José Martího 407/2, 162 00 Praha 6-Veleslavín"
+});
+
+infowindow.open(map,marker);
+}
+</script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA7i6vSafRzNMdIaq-SslU9oycP9HMR9TM&callback=myMap">
+</script>
+
+<br>
