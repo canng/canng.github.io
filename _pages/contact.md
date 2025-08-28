@@ -3,7 +3,7 @@ layout: page
 permalink: /contact/
 title: Contact
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 <div class="row justify-content-sm-center">
