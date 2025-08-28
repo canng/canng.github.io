@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Editing a Sustainability Special Issues on Designing Resilient Cities
+title: Editing a Sustainability Special Issue on Designing Resilient Cities
 date: 2025-07-01 00:00:00
-description: Editing a Sustainability Special Issues on Designing Resilient Cities
+description: Editing a Sustainability Special Issue on Designing Resilient Cities
 tags: work
 categories: work
 ---
