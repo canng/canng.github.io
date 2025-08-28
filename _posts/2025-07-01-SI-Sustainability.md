@@ -1,17 +1,17 @@
 ---
 layout: post
-title: a post with images
+title: Special Issues on Designing Resilient Cities
 date: 2025-07-01 00:00:00
-description: 
-tags: formatting images
-categories: sample-posts
+description: Editing a Sustainability Special Issues on Designing Resilient Cities
+tags: work
+categories: work
 ---
 
 <hr>
 
 <div style="text-align:justify; font-size:20px;">
 
-## Designing Resilient Cities: Landscape-Based Architecture and Green Space Strategies for Urban Sustainability
+<h2> Designing Resilient Cities: Landscape-Based Architecture and Green Space Strategies for Urban Sustainability </h2>
 
 <br>
 
