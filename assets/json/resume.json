@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Can T. Nguyen",
-    "label": "Researcher",
+    "position": "Researcher",
     "image": "",
     "email": "trongcan.ng@gmail.com",
     "phone": "(420) 773 705 812",
-    "url": "https://canng.github.io",
+    "website": "https://canng.github.io",
     "location": {
       "address": "José Martího 407/2",
       "postalCode": "16200",
@@ -92,7 +92,7 @@
     {
       "name": "Land Resources Department, Can Tho University, Vietnam",
       "position": "Research & Teaching Assistant",
-      "url": "https://lrd.ctu.edu.vn/",
+      "url": "https://lrd.ctu.edu.vn/en/",
       "startDate": "2016-03-01",
       "endDate": "2019-07-31"
     },
