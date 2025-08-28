@@ -450,11 +450,26 @@ ninja.data = [{
           description: "Biodiversity, Ecological Environment, Conservation, Ecological Assessments",
           section: "Projects",handler: () => {
               window.location.href = "/homepage/projects/01_Research_topic_4/";
-            },},{id: "projects-ecological-environments",
-          title: 'Ecological Environments',
-          description: "Project aim is to determine the potential scenarios of future development in technology and consumption, which will ensure national footprints of all countries to be within the downscaled planetary boundaries.",
+            },},{id: "projects-vnu-hcm-c2024-16-19",
+          title: 'VNU-HCM -C2024-16-19',
+          description: "Assessing Shifting Agriculture Land Use Structure to Adapt to Changes in Flood and Drought-Saline Intrusion Regimes in the Vietnam Mekong Delta",
           section: "Projects",handler: () => {
-              window.location.href = "/homepage/projects/02_Project_01/";
+              window.location.href = "/homepage/projects/02_Project_AGU_Flood_Drought/";
+            },},{id: "projects-vnu-hcm-c2024-16-07",
+          title: 'VNU-HCM -C2024-16-07',
+          description: "Assessing the situation of rural urbanization in the Long Xuyen Quadrangle under the impact of flood prevention dikes",
+          section: "Projects",handler: () => {
+              window.location.href = "/homepage/projects/02_Project_AGU_Rural_Urbanization/";
+            },},{id: "projects-gacr-expro-23-07984x",
+          title: 'GACR EXPRO-23-07984X',
+          description: "Pathways towards Environmental Sustainability (2023–2027)",
+          section: "Projects",handler: () => {
+              window.location.href = "/homepage/projects/02_Project_GACR/";
+            },},{id: "projects-cgiar-c-2022-105",
+          title: 'CGIAR-C-2022-105',
+          description: "Securing the food system of Asian mega-deltas for Climate and Livelihood resilience",
+          section: "Projects",handler: () => {
+              window.location.href = "/homepage/projects/03_Project_1/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
