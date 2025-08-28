@@ -18,7 +18,7 @@ nav_order: 5
         <i class="fa-solid fa-envelope"></i>trongcan.ng@gmail.com
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/CZP_CUNI.jpg" title="czp" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/CZP_CUNI.jpg" title="czp" class="img-fluid rounded z-depth-1" zoomable=true %}
         Krystal campus, <span class="copyright">&copy;</span> CZP, CUNI <br>
     </div>
 </div>
