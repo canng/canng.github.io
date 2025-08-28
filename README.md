@@ -1,0 +1,1 @@
+Change color in _variables.scss
