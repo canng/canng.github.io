@@ -51,14 +51,28 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "nav-repositories",
-          title: "Repositories",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
-        },{id: "post-editing-a-sustainability-special-issues-on-designing-resilient-cities",
+        },{id: "dropdown-sdgs",
+              title: "SDGs",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/sdgs/";
+              },
+            },{id: "dropdown-gallery",
+              title: "Gallery",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/gallery/";
+              },
+            },{id: "dropdown-repositories",
+              title: "Repositories",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/repositories/";
+              },
+            },{id: "post-editing-a-sustainability-special-issues-on-designing-resilient-cities",
         
           title: "Editing a Sustainability Special Issues on Designing Resilient Cities",
         
