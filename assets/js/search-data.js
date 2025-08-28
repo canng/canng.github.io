@@ -58,11 +58,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/homepage/repositories/";
           },
-        },{id: "post-a-post-with-images",
+        },{id: "post-special-issues-on-designing-resilient-cities",
         
-          title: "a post with images",
+          title: "Special Issues on Designing Resilient Cities",
         
-        description: "",
+        description: "Editing a Sustainability Special Issues on Designing Resilient Cities",
         section: "Posts",
         handler: () => {
           
