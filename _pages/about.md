@@ -5,14 +5,14 @@ permalink: /
 subtitle: Junior Researcher in Environmental Geography & Geoinformatics
 
 
-profile:
-  align: right
-  image: cannguyen_czp.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Environment Centre, Charles University</p>
-    <p>José Martího 407/2</p>
-    <p>16200 Prague, Czech Republic</p>
+#profile:
+#  align: right
+#  image: cannguyen_czp.jpg
+#  image_circular: false # crops the image to make it circular
+#  more_info: >
+#    <p>Environment Centre, Charles University</p>
+#    <p>José Martího 407/2</p>
+#    <p>16200 Prague, Czech Republic</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -33,14 +33,23 @@ images:
 ---
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <a href="https://www.mdpi.com/journal/sustainability/special_issues/5F78LD3752"><swiper-slide>{% include figure.liquid loading="eager" path="assets/img/slider_carousel/slider_01.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide></a>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/slider_carousel/slider_02.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/slider_carousel/slider_03.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/slider_carousel/slider_05.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
 <br>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/cannguyen_czp.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 
 <b>Can T. Nguyen</b> is a junior scientist. He is currently working as a researcher at Environmental Footprint Lab, <a href="https://czp.cuni.cz/en/">Charles University Environment Centre</a> (CZP) under the project of <a href="https://czp.cuni.cz/en/projects/pathways-towards-environmental-sustainability-gacr-expro-2023-2027">Pathways towards Environmental Sustainability (GAČR EXPRO; 2023–2027)</a> with <a href="https://czp.cuni.cz/en/about-us/staff/jan-weinzettel">Dr. Jan Weinzettel</a> and <a href="https://czp.cuni.cz/en/about-us/staff/davina-vackarova">Dr. Davina Vačkářová</a>.<br>
 <br>
