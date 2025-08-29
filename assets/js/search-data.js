@@ -79,9 +79,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/repositories/";
               },
-            },{id: "post-editing-a-sustainability-special-issue-on-designing-resilient-cities",
+            },{id: "post-editing-a-special-issue-on-designing-resilient-cities-sustainability-mdpi",
         
-          title: "Editing a Sustainability Special Issue on Designing Resilient Cities",
+          title: "Editing a Special Issue on Designing Resilient Cities (Sustainability, MDPI)",
         
         description: "",
         section: "Posts",
