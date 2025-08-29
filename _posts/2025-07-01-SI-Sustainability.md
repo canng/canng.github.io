@@ -2,7 +2,7 @@
 layout: post
 title: Editing a Sustainability Special Issue on Designing Resilient Cities
 date: 2025-07-01 00:00:00
-description: Editing a Sustainability Special Issue on Designing Resilient Cities
+description: 
 tags: work
 categories: work
 ---
@@ -51,5 +51,5 @@ We welcome contributions on green-blue infrastructure, nature-based solutions, u
 <br>
 
 <div class="col-sm">
-    {% include figure.liquid path="assets/img/post_pics/SI_sustainability.jpg" class="img-fluid rounded z-depth-1" width="80%" %}
+    {% include figure.liquid path="assets/img/post_pics/SI_sustainability.jpg" class="img-fluid rounded z-depth-1" width="90%" %}
 </div>

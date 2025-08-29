@@ -8,9 +8,9 @@ nav_order: 6
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <p> Dr. Can T. Nguyen <br>
-        Room 1602, Environment Centre <br>
-        Charles University <br>
+        <p><b>Dr. Can T. Nguyen</b> <br>
+        Room 1602, Krystal Building <br>
+        Environment Centre, Charles University <br>
         José Martího 407/2 <br>
         16200 Praha 6-Veleslavín <br>
         Czech Republic </p>

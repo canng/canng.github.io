@@ -13,37 +13,37 @@ nav_order: 4
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/review_banner.png" title="" %}
+        {% include figure.liquid path="assets/img/review/review_banner.png" title="" %}
     </div>
 </div>
 
 <br>
 
-> <p style="font-size: 18px; text-align: justify"> Over the past few years, starting from my doctoral program (2021), I have gained several opportunities to contribute to the peer-review process of over <b>31 Journals</b> from <b>>05 Publishers</b>. </p>
+> <p style="font-size: 18px; text-align: justify"> Over the past few years, starting from my doctoral program (2021), I have gained several opportunities to contribute to the peer-review process of over <b>31 Journals</b> from more than <b>05 Publishers</b>. </p>
 > <p style="font-size: 18px; text-algin: justify"> My goal is to ensure scientific rigor while still encouraging and helping young scientists improve their research. </p>
 
 
 
 <hr>
 <br>
-<div style="width:90%; text-align:justify"></div>
 
-#### **Editorial Board Member**
+
+### **Editorial Board Member**
 
 <a href="https://link.springer.com/journal/44327/editorial-board">Discover Cities</a>, Springer<br>
 <a href="https://link.springer.com/journal/43621/editorial-board">Discover Sustainability</a>, Springer<br>
 
-#### **Guest Editor**
+### **Guest Editor**
 <a href="https://www.mdpi.com/journal/sustainability/special_issues/5F78LD3752">Designing Resilient Cities: Landscape-Based Architecture and Green Space Strategies for Urban Sustainability</a> (Sustainability, MDPI)<br>
 <br>
 
-#### **Project Evaluation**
+### **Project Evaluation**
 
 <a href="https://www.ncn.gov.pl/en/finansowanie-nauki/konkursy/typy/2">PRELUDIUM</a>, National Science Center, Poland 
 <br>
 <br>
 
-#### **Membership**
+### **Membership**
 
 International Association for Urban Climate<a href="https://urban-climate.org/"> (IAUC)</a><br>
 European Geosciences Union<a href="https://www.egu.eu//"> (EGU)</a><br>
@@ -56,21 +56,31 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
 
 <hr>
 
-#### **Peer Reviewer for**
+### **Peer Reviewer for**
 
-#### Elsevier  (11 Journals)
+<div class="rowr">
+    <div class="col-sm-8 mt-3 mt-md-0">
+    <h4>Elsevier  (11 Journals)</h4>
+        (1) <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society">Sustainable Cities and Society</a>; 
+        (2) <a href="https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation">Journal of Applied Earth Observation and Geoinformation</a>; 
+        (3) <a href="https://www.sciencedirect.com/journal/the-egyptian-journal-of-remote-sensing-and-space-science">The Egyptian Journal of Remote Sensing and Space Sciences</a>; 
+        (4) <a href="https://www.journals.elsevier.com/environmental-challenges">Environmental Challenges</a>; 
+        (5) <a href="https://www.cell.com/heliyon/home">Heliyon</a>; 
+        (6) <a href="https://www.sciencedirect.com/journal/world-development-sustainability">World Development Sustainability</a>; 
+        (7) <a href="https://www.sciencedirect.com/journal/journal-of-urban-management">Journal of Urban Management</a>; 
+        (8) <a href="https://www.sciencedirect.com/journal/advances-in-space-research">Advances in Space Research</a>; 
+        (9) <a href="https://www.sciencedirect.com/journal/urban-climate">Urban Climate</a>; 
+        (10) <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening">Urban Forestry & Urban Greening</a>; 
+        (11) <a href="https://www.sciencedirect.com/journal/environmental-and-sustainability-indicators">Environmental and Sustainability Indicators</a>        
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">    
+        {% include figure.liquid path="assets/img/review/Elsevier_logo_2019.png" title="" %}
+    </div>
+</div>
 
-(1) <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society">Sustainable Cities and Society</a>; 
-(2) <a href="https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation">Journal of Applied Earth Observation and Geoinformation</a>; 
-(3) <a href="https://www.sciencedirect.com/journal/the-egyptian-journal-of-remote-sensing-and-space-science">The Egyptian Journal of Remote Sensing and Space Sciences</a>; 
-(4) <a href="https://www.journals.elsevier.com/environmental-challenges">Environmental Challenges</a>; 
-(5) <a href="https://www.cell.com/heliyon/home">Heliyon</a>; 
-(6) <a href="https://www.sciencedirect.com/journal/world-development-sustainability">World Development Sustainability</a>; 
-(7) <a href="https://www.sciencedirect.com/journal/journal-of-urban-management">Journal of Urban Management</a>; 
-(8) <a href="https://www.sciencedirect.com/journal/advances-in-space-research">Advances in Space Research</a>; 
-(9) <a href="https://www.sciencedirect.com/journal/urban-climate">Urban Climate</a>; 
-(10) <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening">Urban Forestry & Urban Greening</a>; 
-(11) <a href="https://www.sciencedirect.com/journal/environmental-and-sustainability-indicators">Environmental and Sustainability Indicators</a>
+
+
+
 
 
 <br>

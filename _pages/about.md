@@ -2,13 +2,13 @@
 layout: about
 title: 🏠 
 permalink: /
-subtitle: Junior Researcher in Environmental Geography & Geoinformatics
+subtitle: Researcher in Environmental Geography & Geoinformatics
 
 
 profile:
   align: right
   image: cannguyen_czp.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Environment Centre, Charles University</p>
     <p>José Martího 407/2</p>
