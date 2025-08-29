@@ -81,7 +81,7 @@ ninja.data = [{
               },
             },{id: "post-editing-a-special-issue-on-designing-resilient-cities-sustainability-mdpi",
         
-          title: "Editing a Special Issue on Designing Resilient Cities (Sustainability, MDPI)",
+          title: "📢 Editing a Special Issue on Designing Resilient Cities (Sustainability, MDPI)",
         
         description: "",
         section: "Posts",
