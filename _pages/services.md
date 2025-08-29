@@ -74,7 +74,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         (11) <a href="https://www.sciencedirect.com/journal/environmental-and-sustainability-indicators">Environmental and Sustainability Indicators</a>        
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
-        {% include figure.liquid path="assets/img/review/Elsevier_logo_2019.png" height="2%" %}
+        {% include figure.liquid path="assets/img/review/Elsevier.png" height="10%" %}
     </div>
 </div>
 
