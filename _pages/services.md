@@ -74,7 +74,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         (11) <a href="https://www.sciencedirect.com/journal/environmental-and-sustainability-indicators">Environmental and Sustainability Indicators</a>        
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
-        {% include figure.liquid path="assets/img/review/Elsevier_logo_2019.png" height="50px" %}
+        {% include figure.liquid path="assets/img/review/Elsevier_logo_2019.png" height="10%" %}
     </div>
 </div>
 
@@ -90,7 +90,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         (7) <a href="https://link.springer.com/journal/44327">Discover Cities</a>      
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
-        {% include figure.liquid path="assets/img/review/Springer.png" height="50px" %}
+        {% include figure.liquid path="assets/img/review/Springer.png" height="10%" %}
     </div>
 </div>
 
@@ -104,7 +104,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         (5) <a href="https://www.tandfonline.com/journals/tgei20">Geocarto International</a>;
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
-        {% include figure.liquid path="assets/img/review/taylor_francis.jpg" height="50px" %}
+        {% include figure.liquid path="assets/img/review/taylor_francis.jpg" height="10%" %}
     </div>
 </div>
 
@@ -119,7 +119,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         (6) <a href="https://www.mdpi.com/journal/land">Land</a>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
-        {% include figure.liquid path="assets/img/review/mdpi.jpg" height="50px" %}
+        {% include figure.liquid path="assets/img/review/mdpi.jpg" height="10%" %}
     </div>
 </div>
 
@@ -132,7 +132,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         (4) <a href="https://iopscience.iop.org/journal/2752-5309">Environmental Research: Health</a> 
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
-        {% include figure.liquid path="assets/img/review/iop_logo_1.png" height="50px" %}
+        {% include figure.liquid path="assets/img/review/iop_logo_1.png" height="10%" %}
     </div>
 </div>
 
@@ -142,7 +142,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         (1) <a href="https://onlinelibrary.wiley.com/journal/1099145X">Land Degradation & Development</a>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
-        {% include figure.liquid path="assets/img/review/wiley_logo.png" height="50px" %}
+        {% include figure.liquid path="assets/img/review/wiley_logo.png" height="10%" %}
     </div>
 </div>
 

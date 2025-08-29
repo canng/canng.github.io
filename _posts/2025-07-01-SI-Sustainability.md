@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Editing a Sustainability Special Issue on Designing Resilient Cities
+title: Editing a Special Issue on Designing Resilient Cities (Sustainability, MDPI)
 date: 2025-07-01 00:00:00
 description: 
-tags: work
+tags: work special-issue
 categories: work
 ---
 
