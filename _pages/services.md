@@ -92,7 +92,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         (7) <a href="https://link.springer.com/journal/44327">Discover Cities</a>      
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
-        {% include figure.liquid path="assets/img/review/Springer.png" height="25%" %}
+        {% include figure.liquid path="assets/img/review/Springer.png" height="15%" %}
     </div>
 </div>
 
@@ -108,7 +108,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         (5) <a href="https://www.tandfonline.com/journals/tgei20">Geocarto International</a>;
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
-        {% include figure.liquid path="assets/img/review/taylor_francis.jpg" height="10%" %}
+        {% include figure.liquid path="assets/img/review/taylor_francis.jpg" height="20%" %}
     </div>
 </div>
 
