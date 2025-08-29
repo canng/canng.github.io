@@ -9,11 +9,9 @@ nav_order: 4
 
 <br>
 
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/review/review_banner.png" title="" %}
+        {% include figure.liquid path="assets/img/review/review_banner.png" title="" height="80%" %}
     </div>
 </div>
 
@@ -74,7 +72,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         (11) <a href="https://www.sciencedirect.com/journal/environmental-and-sustainability-indicators">Environmental and Sustainability Indicators</a>        
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
-        {% include figure.liquid path="assets/img/review/Elsevier.png" height="10%" %}
+        {% include figure.liquid path="assets/img/review/Elsevier.png" height="20%" %}
     </div>
 </div>
 
@@ -92,7 +90,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         (7) <a href="https://link.springer.com/journal/44327">Discover Cities</a>      
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
-        {% include figure.liquid path="assets/img/review/Springer.png" height="20%" %}
+        {% include figure.liquid path="assets/img/review/Springer.png" height="25%" %}
     </div>
 </div>
 
@@ -125,7 +123,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         (6) <a href="https://www.mdpi.com/journal/land">Land</a>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
-        {% include figure.liquid path="assets/img/review/mdpi.jpg" height="2%" %}
+        {% include figure.liquid path="assets/img/review/mdpi.jpg" height="1%" %}
     </div>
 </div>
 
@@ -140,7 +138,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         (4) <a href="https://iopscience.iop.org/journal/2752-5309">Environmental Research: Health</a> 
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
-        {% include figure.liquid path="assets/img/review/IOP_logo.jpg" height="10%" %}
+        {% include figure.liquid path="assets/img/review/IOP_logo.jpg" height="1%" %}
     </div>
 </div>
 
