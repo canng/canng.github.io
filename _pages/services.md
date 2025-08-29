@@ -78,6 +78,8 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
     </div>
 </div>
 
+<br>
+
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
         <h4>Springer & Springer Nature (7 Journals)</h4>
@@ -94,6 +96,8 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
     </div>
 </div>
 
+<br>
+
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
        <h4>Taylor and Francis (5 Journals)</h4>
@@ -107,6 +111,8 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         {% include figure.liquid path="assets/img/review/taylor_francis.jpg" height="10%" %}
     </div>
 </div>
+
+<br>
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -123,6 +129,8 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
     </div>
 </div>
 
+<br>
+
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
        <h4>IOP (4 Journals)</h4>
@@ -136,6 +144,8 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
     </div>
 </div>
 
+<br>
+
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
        <h4>Wiley (1 Journal)</h4>
@@ -146,6 +156,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
     </div>
 </div>
 
+<br>
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -160,6 +171,8 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
     </div>
 </div>
 
+
+<br>
 
 <hr>
 
