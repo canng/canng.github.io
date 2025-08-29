@@ -74,7 +74,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         (11) <a href="https://www.sciencedirect.com/journal/environmental-and-sustainability-indicators">Environmental and Sustainability Indicators</a>        
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
-        {% include figure.liquid path="assets/img/review/Elsevier_logo_2019.png" height="10%" %}
+        {% include figure.liquid path="assets/img/review/Elsevier_logo_2019.png" height="6%" %}
     </div>
 </div>
 
@@ -92,7 +92,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         (7) <a href="https://link.springer.com/journal/44327">Discover Cities</a>      
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
-        {% include figure.liquid path="assets/img/review/Springer.png" height="10%" %}
+        {% include figure.liquid path="assets/img/review/Springer.png" height="25%" %}
     </div>
 </div>
 
@@ -125,7 +125,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         (6) <a href="https://www.mdpi.com/journal/land">Land</a>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
-        {% include figure.liquid path="assets/img/review/mdpi.jpg" height="10%" %}
+        {% include figure.liquid path="assets/img/review/mdpi.jpg" height="5%" %}
     </div>
 </div>
 
