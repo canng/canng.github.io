@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "Publications",
-          description: "For a complete list and updated publications, please visit my [Google Scholar](https://scholar.google.com/citations?hl=vi&amp;authuser=3&amp;user=xnzuZiAAAAAJ)",
+          description: "For a complete list and updated publications, please visit my Google Scholar",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -83,7 +83,7 @@ ninja.data = [{
         
           title: "Editing a Sustainability Special Issue on Designing Resilient Cities",
         
-        description: "Editing a Sustainability Special Issue on Designing Resilient Cities",
+        description: "",
         section: "Posts",
         handler: () => {
           
