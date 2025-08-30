@@ -1,18 +1,25 @@
+"nguyen":
+  - firstname: ['C. T.']
+    url: https://scholar.google.com/citations?hl=vi&authuser=3&user=xnzuZiAAAAAJ
 
 "diem":
   - firstname: ["P. K."]
     url: https://orcid.org/0000-0002-4721-751X
 
 "diep":
-  - firstname: ["Diep", "N. T. H.", "Diep, N. T. H."]
+  - firstname: ["N. T. H."]
     url: https://www.researchgate.net/profile/Diep-Nguyen-Thi-Hong
 
 "phan":
-  - firstname: ["Phan", "T. N.", "Phan, T. N."]
+  - firstname: ["T. N."]
     url: https://scholar.google.com/citations?user=dGQgwH0AAAAJ&hl=en
 
 "downes":
-  - firstname: ["Downes", "N. K.", "Downes, N. K."]
+  - firstname: ["N. K."]
     url: https://scholar.google.com/citations?user=cNYcVQ0AAAAJ&hl=vi&authuser=3
+
+"noszczyk":
+  - firstname: ["T."]
+    url: https://scholar.google.com/citations?user=3MuBK9UAAAAJ&hl=en
 
 
