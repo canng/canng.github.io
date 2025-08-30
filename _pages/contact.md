@@ -9,7 +9,6 @@ nav_order: 6
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         <p><b>Dr. Can T. Nguyen</b> <br>
-        Room 1602, Krystal Building <br>
         Environment Centre, Charles University <br>
         José Martího 407/2 <br>
         16200 Praha 6-Veleslavín <br>
@@ -22,7 +21,6 @@ nav_order: 6
         Krystal campus, <span class="copyright">&copy;</span> CZP, CUNI <br>
     </div>
 </div>
-
 
 
 <br>
@@ -42,7 +40,7 @@ function myMap() {
   marker.setMap(map);
 
   var infowindow = new google.maps.InfoWindow({
-  content: "1602 Krystal, José Martího 407/2, 16200 Praha 6-Veleslavín"
+  content: "Krystal, José Martího 407/2, 16200 Praha 6-Veleslavín"
 });
 
 infowindow.open(map,marker);
