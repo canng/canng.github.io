@@ -79,15 +79,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/repositories/";
               },
-            },{id: "post-editing-a-special-issue-on-designing-resilient-cities-sustainability-mdpi",
+            },{id: "post-",
         
-          title: "📢 Editing a Special Issue on Designing Resilient Cities (Sustainability, MDPI)",
+          title: "",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/SI-Sustainability/";
+            window.location.href = "/blog/2025/2025-07-01-SI-Sustainability/";
           
         },
       },{id: "books-the-godfather",
