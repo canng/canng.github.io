@@ -29,7 +29,7 @@ We welcome contributions on green-blue infrastructure, nature-based solutions, u
 <br>
 ❓If you’re working on projects or research aligned with these themes, consider submitting your work. </br>
 <br>
-📩 Feel free to reach out if you wish to discuss ideas before submission. </br>
+📩 Feel free to reach out if you wish to discuss ideas before submission. <br>
 </p>
 
 <br>
