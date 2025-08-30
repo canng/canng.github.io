@@ -12,19 +12,18 @@ category: Past Projects
 
 <br>
 
-<img src="/assets/img/project_pics/CTU_cloud_01.jpg" width="850">
-
-
+<div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/project_pics/CTU_cloud_01.jpg" %}
+</div>
 
 <hr>
 
-## Project ID: 2017-39
+### Project ID: 2017-39
 
 > Role: Member:  <br>
 > Period: 2017-2018 <br>
 > Funder: Can Tho University (internal)<br>
 
-<br>
 
 ### **Objectives** <br>
 
@@ -33,12 +32,17 @@ category: Past Projects
 
 <br>
 
+<div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/project_pics/CTU_cloud_02.jpg" %}
+</div>
 
-<img src="/assets/img/project_pics/CTU_cloud_02.jpg" width="850">
+<div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/project_pics/CTU_cloud_03.jpg" %}
+</div>
 
-<img src="/assets/img/project_pics/CTU_cloud_03.jpg" width="850">
-
-<img src="/assets/img/project_pics/CTU_cloud_04.jpg" width="850">
+<div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/project_pics/CTU_cloud_04.jpg" %}
+</div>
 
 
 <br>
