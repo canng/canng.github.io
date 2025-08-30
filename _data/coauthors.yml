@@ -1,18 +1,18 @@
 
-"Diem, K. P.":
-  - firstname: ["Diem", "K. P.", "Diem, K. P.", "Diem,"]
+"diem":
+  - firstname: ["Diem", "K. P.", "Diem, K. P."]
     url: https://orcid.org/0000-0002-4721-751X
 
-"Diep, N. T. H.":
-  - firstname: ["Diep", "N. T. H.", "Diep, N. T. H.", "Diep,"]
+"diep":
+  - firstname: ["Diep", "N. T. H.", "Diep, N. T. H."]
     url: https://www.researchgate.net/profile/Diep-Nguyen-Thi-Hong
 
-"Phan, T. N.":
-  - firstname: ["Phan", "T. N.", "Phan, T. N.", "Phan,"]
+"phan":
+  - firstname: ["Phan", "T. N.", "Phan, T. N."]
     url: https://scholar.google.com/citations?user=dGQgwH0AAAAJ&hl=en
 
-"Downes, N. K.":
-  - firstname: ["Downes", "N. K.", "Downes, N. K.", "Downes,"]
+"downes":
+  - firstname: ["Downes", "N. K.", "Downes, N. K."]
     url: https://scholar.google.com/citations?user=cNYcVQ0AAAAJ&hl=vi&authuser=3
 
 
