@@ -123,7 +123,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         (6) <a href="https://www.mdpi.com/journal/land">Land</a>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
-        {% include figure.liquid path="assets/img/review/mdpi_logo.png" height="10%" %}
+        {% include figure.liquid path="assets/img/review/mdpi.jpg" height="1%" %}
     </div>
 </div>
 
@@ -138,7 +138,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         (4) <a href="https://iopscience.iop.org/journal/2752-5309">Environmental Research: Health</a> 
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
-        {% include figure.liquid path="assets/img/review/iop_logo_1.png" height="10%" %}
+        {% include figure.liquid path="assets/img/review/IOP_logo.jpg" height="1%" %}
     </div>
 </div>
 
