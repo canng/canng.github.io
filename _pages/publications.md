@@ -11,9 +11,9 @@ nav_order: 3
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
+<p style="font-size: 16px">For a complete list and updated publications, please visit my <a href="https://scholar.google.com/citations?hl=vi&authuser=3&user=xnzuZiAAAAAJ">Google Scholar</a></p>
 
->For a complete list and updated publications, please visit my <a href="https://scholar.google.com/citations?hl=vi&authuser=3&user=xnzuZiAAAAAJ">Google Scholar</a>
+{% include bib_search.liquid %}
 
 <div class="publications">
 
