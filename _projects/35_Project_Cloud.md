@@ -7,8 +7,23 @@ importance: 5
 category: Past Projects
 ---
 
+<style>
+/* Apply bigger font size for everything inside this page */
+.page-content {
+  font-size: 20px;       /* base font size */
+  line-height: 1.6;      /* better readability */
+}
 
-## Solution for Cloud removal on MODIS time series to Assess Variations of Rice crop Structures in the Mekong Delta region, Vietnam
+.page-content h1,
+.page-content h2,
+.page-content h3 {
+  font-size: 1.5em;      /* scale headings relative to body */
+  font-weight: bold;
+}
+</style>
+
+
+### Solution for Cloud removal on MODIS time series to Assess Variations of Rice crop Structures in the Mekong Delta region, Vietnam
 
 <br>
 
@@ -27,8 +42,9 @@ category: Past Projects
 
 ### **Objectives** <br>
 
-<li style="font-size:18px; text-align: justify">Remove and Impute cloud effects on MODIS time series in the Vietnamese Mekong Delta, where is frequently influenced by cloud and cloud shadow during rainy season</li><br>
-<li style="font-size:18px; text-align: justify">Apply the imputed time series data to improve Land use, land cover classification in the delta, especially for the seasonal crops (e.g., double and triple rice)</li><br>
+<li>Remove and Impute cloud effects on MODIS time series in the Vietnamese Mekong Delta, where is frequently influenced by cloud and cloud shadow during rainy season</li>
+
+<li>Apply the imputed time series data to improve Land use, land cover classification in the delta, especially for the seasonal crops (e.g., double and triple rice)</li><br>
 
 <br>
 
@@ -50,14 +66,12 @@ category: Past Projects
 
 ### **Summary:** <br> 
 
-<p style="font-size:18px; text-align: justify">he research is aimed to apply cloud removal method on time series MODIS imagery and create MODIS time series images having no cloud dataset in Vinh Long province in 2017. MODIS data are used including MOD09A1 and MOD09Q1 temporal resolutions of 8 days and the spatial resolutions at 500m and 250m in ​​Vinh Long province from 01/01/2016 to 30/12/2017 for cloud cover. The research was applied NDVI time series and unsuppervised classification using the K-means algorithms on ENVI software to remove clouded pixels from MOD09Q1 imgery. The result was created the MODIS cloudless dataset in 2017 (from 01/01/2017 to 01/11/2017) and developed rice cultivation maps in Vinh Long province. The maps were developed before and after classification to be estimated with accuracy assessment of 74.44%. The difference in accuracy assessment betwen before and after cloud removal data that was showed only 2.22%. However, the MODIS imagery with MOD09Q1 data after removal cloud method that can be applied to detect vegetation cover especially for rice cultivation. </p>
-
+<p>he research is aimed to apply cloud removal method on time series MODIS imagery and create MODIS time series images having no cloud dataset in Vinh Long province in 2017. MODIS data are used including MOD09A1 and MOD09Q1 temporal resolutions of 8 days and the spatial resolutions at 500m and 250m in ​​Vinh Long province from 01/01/2016 to 30/12/2017 for cloud cover. The research was applied NDVI time series and unsuppervised classification using the K-means algorithms on ENVI software to remove clouded pixels from MOD09Q1 imgery. The result was created the MODIS cloudless dataset in 2017 (from 01/01/2017 to 01/11/2017) and developed rice cultivation maps in Vinh Long province. The maps were developed before and after classification to be estimated with accuracy assessment of 74.44%. The difference in accuracy assessment betwen before and after cloud removal data that was showed only 2.22%. However, the MODIS imagery with MOD09Q1 data after removal cloud method that can be applied to detect vegetation cover especially for rice cultivation. </p>
 
 <br>
 
-
 ### **Output**
 
-> <p style="font-size:18px; text-align: justify"> Diep, N. T. H., <b>Can, N. T.</b>, Linh. T. L. P., & Huong, H. T. T., 2018. Assessment of cloud removal method on MODIS time series images for land cover mapping. Can Tho University Journal of Science. 54(9), 67-74, <a href="https://doi.org/10.22144/ctu.jvn.2018.182">  10.22144/ctu.jvn.2018.182</a> <i>(in Vietnamese)</i></p> 
+> <p> Diep, N. T. H., <b>Can, N. T.</b>, Linh. T. L. P., & Huong, H. T. T., 2018. Assessment of cloud removal method on MODIS time series images for land cover mapping. Can Tho University Journal of Science. 54(9), 67-74, <a href="https://doi.org/10.22144/ctu.jvn.2018.182">  10.22144/ctu.jvn.2018.182</a> <i>(in Vietnamese)</i></p> 
 
 
