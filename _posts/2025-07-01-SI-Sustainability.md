@@ -16,7 +16,7 @@ categories: work
 
 <br>
 
-<div style="font-size: 18px; text-align: justify">
+
 I am currently editing a Special Issue for Sustainability on <b>"Designing Resilient Cities: Landscape-Based Architecture and Green Space Strategies for Urban Sustainability"</b>, together with: <br>
 
 <li><a href="https://scholar.google.com/citations?user=cNYcVQ0AAAAJ&hl=en">Dr. Nigel K. Downes </a> (Can Tho University, Vietnam)</li> 
@@ -36,7 +36,6 @@ We welcome contributions on green-blue infrastructure, nature-based solutions, u
 
 📩 Feel free to reach out if you wish to discuss ideas before submission.
 
-</div>
 
 <br>
 
