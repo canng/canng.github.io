@@ -23,7 +23,7 @@ category: Past Projects
 
 #### **Objectives** <br>
 
-<li>Remove and Impute cloud effects on MODIS time series in the Vietnamese Mekong Delta, where is frequently influenced by cloud and cloud shadow during rainy season</li><br>
+<li>Remove and Impute cloud effects on MODIS time series in the Vietnamese Mekong Delta, where is frequently influenced by cloud and cloud shadow during rainy season</li>
 
 <li>Apply the imputed time series data to improve Land use, land cover classification in the delta, especially for the seasonal crops (e.g., double and triple rice)</li><br>
 
