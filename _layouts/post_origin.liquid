@@ -13,15 +13,6 @@ layout: default
   </style>
 {% endif %}
 
-<style>
-  /* Increase font size for markdown content */
-  #markdown-content {
-    font-size: 25px;
-    text-align: justify;
-    line-height: 1.6; /* improves readability */
-  }
-</style>
-
 <div class="post">
   <header class="post-header">
     <h3 class="post-title">{{ page.description }}</h3>
@@ -45,7 +36,9 @@ layout: default
           {% else %}
             <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}
           {% endif %}
-          {% unless forloop.last %}&nbsp;{% endunless %}
+          {% unless forloop.last %}
+            &nbsp;
+          {% endunless %}
         {% endfor %}
       {% endif %}
 
@@ -57,7 +50,9 @@ layout: default
           {% else %}
             <i class="fa-solid fa-tag fa-sm"></i> {{ category }}
           {% endif %}
-          {% unless forloop.last %}&nbsp;{% endunless %}
+          {% unless forloop.last %}
+            &nbsp;
+          {% endunless %}
         {% endfor %}
       {% endif %}
     </p>
@@ -71,7 +66,7 @@ layout: default
       <hr>
     {% endif %}
     <div id="markdown-content">
-      {{ content }}
+      <p style="font-size: 25px; text-align: justify">{{ content }}</p>
     </div>
   </article>
 
