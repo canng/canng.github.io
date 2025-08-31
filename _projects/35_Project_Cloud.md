@@ -7,21 +7,6 @@ importance: 5
 category: Past Projects
 ---
 
-<style>
-/* Apply bigger font size for everything inside this page */
-.page-content {
-  font-size: 22px;       /* base font size */
-  line-height: 1.8;      /* better readability */
-}
-
-.page-content h1,
-.page-content h2,
-.page-content h3 {
-  font-size: 1.5em;      /* scale headings relative to body */
-  /*font-weight: bold; */
-}
-</style>
-
 
 ### Solution for Cloud removal on MODIS time series to Assess Variations of Rice crop Structures in the Mekong Delta region, Vietnam
 
