@@ -15,7 +15,7 @@ layout: default
 
 <div class="post">
   <header class="post-header">
-    <h2 class="post-title">{{ page.description }}</h2>
+    <h3 class="post-title">{{ page.description }}</h3>
     <p class="post-meta">
       Created on {{ page.date | date: '%B %d, %Y' }}
       {% if page.author %}by {{ page.author }}{% endif %}
@@ -66,7 +66,7 @@ layout: default
       <hr>
     {% endif %}
     <div id="markdown-content">
-      <p style="font-size: 18px; text-align: justify">{{ content }}</p>
+      <p style="font-size: 25px; text-align: justify">{{ content }}</p>
     </div>
   </article>
 
