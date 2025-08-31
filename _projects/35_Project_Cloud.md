@@ -1,14 +1,16 @@
 ---
 layout: page
 title: CTU-2017-39 
-description: Solution for Cloud removal on MODIS time series to Assess Variations of Rice crop Structures in the Mekong Delta region, Vietnam; Funded by Can Tho University [2017-2018],
+description: Solution for Cloud removal on MODIS time series to Assess Variations of Rice crop Structures in the Mekong Delta region, Vietnam; Funded by Can Tho University [2017-2018]
 img: assets/img/project_pics/CTU_logo_long.jpg
 importance: 5
 category: Past Projects
 ---
 
-
-### Solution for Cloud removal on MODIS time series to Assess Variations of Rice crop Structures in the Mekong Delta region, Vietnam
+> Solution for Cloud removal on MODIS time series to Assess Variations of Rice crop Structures in the Mekong Delta region, Vietnam<br>
+> Role: Member:  <br>
+> Period: 2017-2018 <br>
+> Funder: Can Tho University (internal)<br>
 
 <br>
 
@@ -17,12 +19,6 @@ category: Past Projects
 </div>
 
 <hr>
-
-#### Project ID: 2017-39
-
-> Role: Member:  <br>
-> Period: 2017-2018 <br>
-> Funder: Can Tho University (internal)<br>
 
 
 #### **Objectives** <br>
@@ -57,6 +53,4 @@ category: Past Projects
 
 #### **Output**
 
-> <p> Diep, N. T. H., <b>Can, N. T.</b>, Linh. T. L. P., & Huong, H. T. T., 2018. Assessment of cloud removal method on MODIS time series images for land cover mapping. Can Tho University Journal of Science. 54(9), 67-74, <a href="https://doi.org/10.22144/ctu.jvn.2018.182">  10.22144/ctu.jvn.2018.182</a> <i>(in Vietnamese)</i></p> 
-
-
+> <p style="font-size:15px"> Diep, N. T. H., <b>Can, N. T.</b>, Linh. T. L. P., & Huong, H. T. T., 2018. Assessment of cloud removal method on MODIS time series images for land cover mapping. Can Tho University Journal of Science. 54(9), 67-74, <a href="https://doi.org/10.22144/ctu.jvn.2018.182">  10.22144/ctu.jvn.2018.182</a> <i>(in Vietnamese)</i></p> 
