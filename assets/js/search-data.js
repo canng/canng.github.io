@@ -155,7 +155,7 @@ ninja.data = [{
               window.location.href = "/projects/34_Project_CTU_ODA/";
             },},{id: "projects-ctu-2017-39",
           title: 'CTU-2017-39',
-          description: "Solution for Cloud removal on MODIS time series to Assess Variations of Rice crop Structures in the Mekong Delta region, Vietnam; Funded by Can Tho University [2017-2018],",
+          description: "Solution for Cloud removal on MODIS time series to Assess Variations of Rice crop Structures in the Mekong Delta region, Vietnam; Funded by Can Tho University [2017-2018]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/35_Project_Cloud/";
             },},{
