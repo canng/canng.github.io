@@ -81,13 +81,24 @@ ninja.data = [{
               },
             },{id: "post-editing-a-special-issue-on-designing-resilient-cities-sustainability-mdpi",
         
-          title: "Editing a Special Issue on Designing Resilient Cities (Sustainability, MDPI)",
+          title: "📢 Editing a Special Issue on Designing Resilient Cities (Sustainability, MDPI)",
         
         description: "Designing Resilient Cities – Landscape-Based Architecture and Green Space Strategies for Urban Sustainability",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025/SI-Sustainability/";
+          
+        },
+      },{id: "post-deep-learning-for-fruit-tree-classification-on-rsase",
+        
+          title: "📰 Deep learning for Fruit tree Classification on RSASE",
+        
+        description: "Leveraging Convolutional Neural Networks and Textural Features for Tropical Fruit Tree Species Classification",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Paper-CNN-Fruit/";
           
         },
       },{id: "books-the-godfather",
