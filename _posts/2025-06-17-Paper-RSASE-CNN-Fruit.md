@@ -17,7 +17,7 @@ Mapping fruit tree species is an essential task in agricultural planning and man
 <br>
 
 
-<div class="col-sm mt-3 mt-md-0">
+<div class="col-sm mt-3 mt-md-0 text-center">
     {% include figure.liquid path="assets/img/pubpic/2025/CNN_Fruit_01.jpg" width="80%" %}
 </div>
 <div class="caption">
@@ -25,7 +25,7 @@ Mapping fruit tree species is an essential task in agricultural planning and man
 </div>
 
 
-<div class="col-sm mt-3 mt-md-0">
+<div class="col-sm mt-3 mt-md-0 text-center">
     {% include figure.liquid path="assets/img/pubpic/2025/CNN_Fruit_02.jpg" width="80%" %}
 </div>
 <div class="caption">
@@ -33,7 +33,7 @@ Mapping fruit tree species is an essential task in agricultural planning and man
 </div>
 
 
-<div class="col-sm mt-3 mt-md-0">
+<div class="col-sm mt-3 mt-md-0 text-center">
     {% include figure.liquid path="assets/img/pubpic/2025/CNN_Fruit_03.jpg" width="80%" %}
 </div>
 <div class="caption">
@@ -41,7 +41,7 @@ Mapping fruit tree species is an essential task in agricultural planning and man
 </div>
 
 
-<div class="col-sm mt-3 mt-md-0">
+<div class="col-sm mt-3 mt-md-0 text-center">
     {% include figure.liquid path="assets/img/pubpic/2025/CNN_Fruit_04.jpg" width="80%" %}
 </div>
 <div class="caption">
@@ -49,7 +49,7 @@ Mapping fruit tree species is an essential task in agricultural planning and man
 </div>
 
 
-<div class="col-sm mt-3 mt-md-0">
+<div class="col-sm mt-3 mt-md-0 text-center">
     {% include figure.liquid path="assets/img/pubpic/2025/CNN_Fruit_05.jpg" width="80%" %}
 </div>
 <div class="caption">
@@ -57,7 +57,7 @@ Mapping fruit tree species is an essential task in agricultural planning and man
 </div>
 
 
-<div class="col-sm mt-3 mt-md-0">
+<div class="col-sm mt-3 mt-md-0 text-center">
     {% include figure.liquid path="assets/img/pubpic/2025/CNN_Fruit_06.jpg" width="80%" %}
 </div>
 <div class="caption">

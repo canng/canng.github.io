@@ -17,7 +17,7 @@ Land use and land cover (LULC) in coastal areas is critical in shaping the ecolo
 <br>
 
 <div class="col-sm mt-3 mt-md-0 text-center">
-    {% include figure.liquid path="assets/img/pubpic/2025/landuse_sim_01.jpg" width="80%" %}
+    {% include figure.liquid path="assets/img/pubpic/2025/landuse_sim_01.jpg" width="90%" %}
 </div>
 <div class="caption">
     Study area map shows location of Soc Trang Province on the southeastern coast of the Vietnam Mekong Delta and current LULC map in 2020 with dike systems and saline intrusion boundary of 4‰.
@@ -25,14 +25,14 @@ Land use and land cover (LULC) in coastal areas is critical in shaping the ecolo
 
 
 <div class="col-sm mt-3 mt-md-0 text-center">
-    {% include figure.liquid path="assets/img/pubpic/2025/landuse_sim_03.jpg" width="80%" %}
+    {% include figure.liquid path="assets/img/pubpic/2025/landuse_sim_02.jpg" width="90%" %}
 </div>
 <div class="caption">
     Methodological framework visualizes primary data sources and their roles in historical LULC mapping, future LULC simulation, and assessments.
 </div>
 
 <div class="col-sm mt-3 mt-md-0 text-center">
-    {% include figure.liquid path="assets/img/pubpic/2025/landuse_sim_03.jpg" width="80%" %}
+    {% include figure.liquid path="assets/img/pubpic/2025/landuse_sim_03.jpg" width="90%" %}
 </div>
 <div class="caption">
     LULCC probability maps highlight susceptible areas to LULCC in 2030 scenarios and combined all scenarios compared to the LULC status in 2020. Map values range from 0 to 1, meaning low to high change probability.
