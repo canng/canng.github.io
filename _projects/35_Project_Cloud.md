@@ -12,8 +12,6 @@ category: Past Projects
 > Period: 2017-2018 <br>
 > Funder: Can Tho University (internal)<br>
 
-<br>
-
 <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/project_pics/CTU_cloud_01.jpg" %}
 </div>

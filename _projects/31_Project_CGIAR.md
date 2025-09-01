@@ -16,7 +16,7 @@ category: Past Projects
 
 
 <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projectpic/CGIAR_mega_delta.png" %}
+    {% include figure.liquid path="assets/img/project_pics/CGIAR_mega_delta.png" %}
 </div>
 
 
@@ -35,7 +35,7 @@ category: Past Projects
 #### Output <br>
 
 <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projectpic/CGIAR_SRP_map.jpg" %}
+    {% include figure.liquid path="assets/img/project_pics/CGIAR_SRP_map.jpg" %}
 </div>
 <div class="caption">
     The location of An Giang and Can Tho provinces in Vietnamese Mekong Delta, where the interviews were conducted
@@ -43,7 +43,7 @@ category: Past Projects
 
 
 <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projectpic/CGIAR_SRP_survey.jpg" %}
+    {% include figure.liquid path="assets/img/project_pics/CGIAR_SRP_survey.jpg" %}
 </div>
 
 <div class="caption">
@@ -56,7 +56,7 @@ category: Past Projects
 ## Study on costs and benefits of the main agricultural production systems in MRD (40,000 USD) 
 <br>
 
-#### **Objetives** <br>
+#### Objetives <br>
 
 - To develop a database of costs and revenues for various local agricultural production systems 
 
@@ -71,7 +71,7 @@ category: Past Projects
 #### Output
 
 <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projectpic/CGIAR_Landuse_map.jpg" %}
+    {% include figure.liquid path="assets/img/project_pics/CGIAR_Landuse_map.jpg" %}
 </div>
 <div class="caption">
     Agriculture land use map in Vietnamese Mekong Delta in 2022
