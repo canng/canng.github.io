@@ -98,7 +98,18 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/Paper-CNN-Fruit/";
+            window.location.href = "/blog/2025/Paper-RSASE-CNN-Fruit/";
+          
+        },
+      },{id: "post-simulate-land-use-changes-under-scenarios-on-land",
+        
+          title: "📰 Simulate Land use Changes under Scenarios on LAND",
+        
+        description: "Benefits and Trade-Offs from Land Use and Land Cover Changes Under Different Scenarios in the Coastal Delta of Vietnam",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Paper-LAND-landuse-sim/";
           
         },
       },{id: "books-the-godfather",
