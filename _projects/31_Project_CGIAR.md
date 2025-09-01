@@ -19,11 +19,8 @@ category: Past Projects
     {% include figure.liquid path="assets/img/projectpic/CGIAR_mega_delta.png" %}
 </div>
 
-<div style="text-align:justify; font-size:20px;">
 
-
-## Using Digital Tools in Sustainable Rice Platform (SRP) for Data Collection and Scoring 
-<br>
+## Using Digital Tools in Sustainable Rice Platform (SRP) for Data Collection and Scoring <br>
 
 #### Objectives <br>
 
@@ -93,5 +90,5 @@ category: Past Projects
 
 #### Technical Report on Land use package
 
-> <p style="font-size:15px"> Diem, P. K., <b>Nguyen, C. T.</b>, Tien, P. D., Diem, N. K., Nguyen, N. T., Hong, T. G., & Vu, P. H., 2024. Report on Land Use Analysis for 13 Provinces in Vietnamese Mekong Delta in 2022. Consultative Group on International Agricultural Research (CGIAR) <a href="https://hdl.handle.net/10568/151791">  Link </a><a href="assets/pdf/report/2024_IRRI_Report_Landuseanalysis_CTU.pdf">  <i class="fa-solid fa-file-pdf"></i></a></p> 
+> <p style="font-size:15px"> Diem, P. K., <b>Nguyen, C. T.</b>, Tien, P. D., Diem, N. K., Nguyen, N. T., Hong, T. G., & Vu, P. H., 2024. Report on Land Use Analysis for 13 Provinces in Vietnamese Mekong Delta in 2022. Consultative Group on International Agricultural Research (CGIAR) <a href="https://hdl.handle.net/10568/151791">  Link </a><a href="https://canng.github.io/assets/pdf/report/2024_IRRI_Report_Landuseanalysis_CTU.pdf">  <i class="fa-solid fa-file-pdf"></i></a></p> 
 
