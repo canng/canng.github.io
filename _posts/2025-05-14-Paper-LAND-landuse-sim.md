@@ -15,7 +15,7 @@ categories: work
 Land use and land cover (LULC) in coastal areas is critical in shaping the ecological systems, regional economy, and livelihood of indigenous communities. This study analyzes LULC changes (LULCC) in Soc Trang Province, Vietnam Mekong Delta, from 2010 to 2020 and simulates future LULC for 2030 under four scenarios: natural growth (business as usual, BAU), climate change challenges, profit optimization, and adaptation strategies. Satellite-based LULC maps and geospatial datasets were integrated into a LULC simulation model based on a Markov Chain and Cellular Automata to predict LULC in 2030 under disparate scenarios. Simultaneously, this study also estimates economic values and ecosystem service values as proxies to evaluate benefits and trade-offs between the scenarios. The research findings reveal that the critical LULCC observed during 2010–2020 are transitions from triple rice crops to double rice crops, rice–shrimp to brackish aquaculture, and expansion of perennial plantations. These transitional trends will persist at a modest rate under the BAU scenario in 2030. The climate change challenge scenario will intervene up to 24.2% of the total area, with double rice crops reaching the most extensive area compared to other scenarios, about 106,047 ha. The profit optimization scenario will affect 16.03% of the total area, focusing on aquaculture expansion to the maximum shared proportion of 34% (approximately 57,000 ha). Adaptive solutions will emphasize reducing triple rice crops while expanding double rice crops and reviving rice–shrimp to different extents depending on development pathways. Economic evaluations show a growth trend across scenarios, with maximum returns under profit optimization. Yet, ecosystem service values notably highlight ecological trade-offs, raising concerns about balancing economic benefits and ecological trade-offs in land use planning. The research findings recommend a comprehensive and multitarget approach to land use planning that integrates ecosystem services into initial assessments to balance benefits and trade-offs in coastal areas commonly affected by LULCC. By adopting well-informed and strategic land use plans that minimize ecological and social impacts, local sustainability and resilience to climate change can be significantly enhanced.
 <br>
 
-<div class="col-sm mt-3 mt-md-0">
+<div class="col-sm mt-3 mt-md-0 text-center">
     {% include figure.liquid path="assets/img/pubpic/2025/landuse_sim_01.jpg" width="80%" %}
 </div>
 <div class="caption">
@@ -23,14 +23,14 @@ Land use and land cover (LULC) in coastal areas is critical in shaping the ecolo
 </div>
 
 
-<div class="col-sm mt-3 mt-md-0">
+<div class="col-sm mt-3 mt-md-0 text-center">
     {% include figure.liquid path="assets/img/pubpic/2025/landuse_sim_03.jpg" width="80%" %}
 </div>
 <div class="caption">
     Methodological framework visualizes primary data sources and their roles in historical LULC mapping, future LULC simulation, and assessments.
 </div>
 
-<div class="col-sm mt-3 mt-md-0">
+<div class="col-sm mt-3 mt-md-0 text-center">
     {% include figure.liquid path="assets/img/pubpic/2025/landuse_sim_03.jpg" width="80%" %}
 </div>
 <div class="caption">

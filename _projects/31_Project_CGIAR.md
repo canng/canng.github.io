@@ -7,12 +7,10 @@ importance: 1
 category: Past Projects
 ---
 
-> Project ID: C-2022-105 - Securing the food system of Asian mega-deltas for Climate and Livelihood resilience<br>
+> Project ID (C-2022-105): Securing the food system of Asian mega-deltas for Climate and Livelihood resilience<br>
 > Role: Participants:  <br>
 > Period: 2022-2023 <br>
 > Funder: Internatonal Rice Research Institute (IRRI-Vietnam) <br>
-
-<br>
 
 
 <div class="col-sm mt-3 mt-md-0">
