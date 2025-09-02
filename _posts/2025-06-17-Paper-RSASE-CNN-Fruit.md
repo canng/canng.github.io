@@ -3,7 +3,7 @@ layout: post
 title: 📰 Deep learning for Fruit tree Classification on RSASE
 date: 2025-06-17 00:00:00
 description: Leveraging Convolutional Neural Networks and Textural Features for Tropical Fruit Tree Species Classification
-tags: work publication 
+tags: publication 
 categories: work
 ---
 

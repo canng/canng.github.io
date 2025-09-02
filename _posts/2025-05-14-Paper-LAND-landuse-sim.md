@@ -3,7 +3,7 @@ layout: post
 title: 📰 Simulate Land use Changes under Scenarios on LAND
 date: 2025-05-14 00:00:00
 description: Benefits and Trade-Offs from Land Use and Land Cover Changes Under Different Scenarios in the Coastal Delta of Vietnam
-tags: work publication 
+tags: publication 
 categories: work
 ---
 

@@ -3,14 +3,14 @@ layout: post
 title: 📢 Editing a Special Issue on Designing Resilient Cities (Sustainability, MDPI)
 date: 2025-07-01 00:00:00
 description: Designing Resilient Cities – Landscape-Based Architecture and Green Space Strategies for Urban Sustainability
-tags: work special-issue
+tags: special-issue
 categories: work
 ---
 
 <hr>
 <br>
 
-<div class="col-sm mt-3 mt-md-0">
+<div class="col-sm mt-3 mt-md-0 text-center">
     {% include figure.liquid path="assets/img/post_pics/SI_sustainability_01.jpg" width="80%" %}
 </div>
 
@@ -39,7 +39,7 @@ We welcome contributions on green-blue infrastructure, nature-based solutions, u
 
 <br>
 
-<div class="col-sm">
+<div class="col-sm text-center">
     {% include figure.liquid path="assets/img/post_pics/SI_sustainability.jpg" width="90%" %}
 </div>
 
