@@ -73,6 +73,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         (11) <a href="https://www.sciencedirect.com/journal/environmental-and-sustainability-indicators">Environmental and Sustainability Indicators</a>;
         (12) <a href="https://www.sciencedirect.com/journal/applied-geography">Applied Geography</a>;
         (13) <a href="https://www.sciencedirect.com/journal/energy">Energy</a>;
+        (14) <a href="https://www.sciencedirect.com/journal/remote-sensing-applications-society-and-environment">Remote Sensing Applications: Society and Environment</a>;
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
         {% include figure.liquid path="assets/img/review/Elsevier.png" height="20%" %}
