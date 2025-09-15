@@ -17,7 +17,7 @@ nav_order: 4
 
 <br>
 
-> <p style="font-size: 18px; text-align: justify"> Over the past few years, starting from my doctoral program (2021), I have gained several opportunities to contribute to the peer-review process of over <b>31 Journals</b> from more than <b>05 Publishers</b>. </p>
+> <p style="font-size: 18px; text-align: justify"> Over the past few years, starting from my doctoral program (2021), I have gained several opportunities to contribute to the peer-review process of over <b>30 Journals</b> from more than <b>05 Publishers</b>. </p>
 > <p style="font-size: 18px; text-algin: justify"> My goal is to ensure scientific rigor while still encouraging and helping young scientists improve their research. </p>
 
 
@@ -30,6 +30,7 @@ nav_order: 4
 
 <a href="https://link.springer.com/journal/44327/editorial-board">Discover Cities</a>, Springer<br>
 <a href="https://link.springer.com/journal/43621/editorial-board">Discover Sustainability</a>, Springer<br>
+<br>
 
 ### **Guest Editor**
 <a href="https://www.mdpi.com/journal/sustainability/special_issues/5F78LD3752">Designing Resilient Cities: Landscape-Based Architecture and Green Space Strategies for Urban Sustainability</a> (Sustainability, MDPI)<br>
@@ -100,7 +101,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-       <h4>Taylor and Francis (5 Journals)</h4>
+       <h4>Taylor and Francis (6 Journals)</h4>
         (1) <a href="https://www.tandfonline.com/journals/tjde20">International Journal of Digital Earth</a>; 
         (2) <a href="https://www.tandfonline.com/toc/tgsi20">Geo-spatial Information Science</a>;
         (3) <a href="https://www.tandfonline.com/journals/oaes21">Sustainable Environment</a>;
