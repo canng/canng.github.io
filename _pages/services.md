@@ -62,7 +62,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
     <h4>Elsevier (15 Journals)</h4>
         (1) <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society">Sustainable Cities and Society</a>; 
         (2) <a href="https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation">Journal of Applied Earth Observation and Geoinformation</a>; 
-        (3) <a href="https://www.sciencedirect.com/journal/the-egyptian-journal-of-remote-sensing-and-space-science">The Egyptian Journal of Remote Sensing and Space Sciences</a>; 
+        (3) <a href="https://www.sciencedirect.com/journal/the-egyptian-journal-of-remote-sensing-and-space-sciences">The Egyptian Journal of Remote Sensing and Space Sciences</a>; 
         (4) <a href="https://www.journals.elsevier.com/environmental-challenges">Environmental Challenges</a>; 
         (5) <a href="https://www.cell.com/heliyon/home">Heliyon</a>; 
         (6) <a href="https://www.sciencedirect.com/journal/world-development-sustainability">World Development Sustainability</a>; 
@@ -105,11 +105,11 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
     <div class="col-sm-8 mt-3 mt-md-0">
        <h4>Taylor and Francis (6 Journals)</h4>
         (1) <a href="https://www.tandfonline.com/journals/tjde20">International Journal of Digital Earth</a>; 
-        (2) <a href="https://www.tandfonline.com/toc/tgsi20">Geo-spatial Information Science</a>;
+        (2) <a href="https://www.tandfonline.com/journals/tgsi20">Geo-spatial Information Science</a>;
         (3) <a href="https://www.tandfonline.com/journals/oaes21">Sustainable Environment</a>;
         (4) <a href="https://www.tandfonline.com/journals/nurw20">Urban Water Journal</a>;
         (5) <a href="https://www.tandfonline.com/journals/tgei20">Geocarto International</a>;
-        (6) <a href="https://www.tandfonline.com/toc/tabe20/current">Journal of Asian Architecture and Building Engineering</a>;
+        (6) <a href="https://www.tandfonline.com/journals/tabe20">Journal of Asian Architecture and Building Engineering</a>;
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
         {% include figure.liquid path="assets/img/review/taylor_francis.jpg" height="30%" %}
