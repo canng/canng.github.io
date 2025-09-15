@@ -59,7 +59,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-    <h4>Elsevier (13 Journals)</h4>
+    <h4>Elsevier (15 Journals)</h4>
         (1) <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society">Sustainable Cities and Society</a>; 
         (2) <a href="https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation">Journal of Applied Earth Observation and Geoinformation</a>; 
         (3) <a href="https://www.sciencedirect.com/journal/the-egyptian-journal-of-remote-sensing-and-space-science">The Egyptian Journal of Remote Sensing and Space Sciences</a>; 
@@ -74,6 +74,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         (12) <a href="https://www.sciencedirect.com/journal/applied-geography">Applied Geography</a>;
         (13) <a href="https://www.sciencedirect.com/journal/energy">Energy</a>;
         (14) <a href="https://www.sciencedirect.com/journal/remote-sensing-applications-society-and-environment">Remote Sensing Applications: Society and Environment</a>;
+        (15) <a href="https://www.sciencedirect.com/journal/journal-of-environmental-management">Journal of Environmental Management</a>;
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
         {% include figure.liquid path="assets/img/review/Elsevier.png" height="20%" %}
