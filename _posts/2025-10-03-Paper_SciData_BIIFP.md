@@ -19,54 +19,38 @@ Global biodiversity is rapidly declining, primarily due to agricultural producti
 
 
 <div class="col-sm mt-3 mt-md-0 text-center">
-    {% include figure.liquid path="assets/img/pubpic/2025/CNN_Fruit_01.jpg" width="80%" %}
+    {% include figure.liquid path="assets/img/pubpic/2025/BIIFP_01.jpg" width="80%" %}
 </div>
 <div class="caption">
-    Chau Thanh district in Southern Vietnam and locations of ground truth points collected during field survey campaigns. The background is Sentinel-2 image (True color composite).
+    Overview of the methodological framework used to generate biodiversity intactness maps and biodiversity loss footprints associated with agricultural production.
 </div>
 
 
 <div class="col-sm mt-3 mt-md-0 text-center">
-    {% include figure.liquid path="assets/img/pubpic/2025/CNN_Fruit_02.jpg" width="80%" %}
+    {% include figure.liquid path="assets/img/pubpic/2025/BIIFP_02.jpg" width="80%" %}
 </div>
 <div class="caption">
-    Field photos of five major fruit tree species demonstrate potential differences in distribution and canopy structure. Source: Authors own field photos.
+    Harmonized land use map in 2020 and fragmented zoom-in examples in (A) Northeast America, (B) Amazon, (C) Mekong Delta, (D) Eastern Australia, (E) Northeast China, (F) Nile Delta in Egypt, (G) Southern Africa, and (H) Western Europe, depict dominant land use categories globally.
 </div>
 
 
 <div class="col-sm mt-3 mt-md-0 text-center">
-    {% include figure.liquid path="assets/img/pubpic/2025/CNN_Fruit_03.jpg" width="80%" %}
+    {% include figure.liquid path="assets/img/pubpic/2025/BIIFP_03.jpg" width="80%" %}
 </div>
 <div class="caption">
-    The proposed concept of CNN model architecture.
+    Biodiversity intactness index (BII) in 2020 and examples in (A) Northeast America, (B) Amazon, (C) Mekong Delta, (D) Eastern Australia, (E) Northeast China, (F) Nile Delta in Egypt, (G) Southern Africa, and (H) Western Europe. Green represents intact ecosystems and red indicates ecosystems with high human intervention.
 </div>
 
 
 <div class="col-sm mt-3 mt-md-0 text-center">
-    {% include figure.liquid path="assets/img/pubpic/2025/CNN_Fruit_04.jpg" width="80%" %}
+    {% include figure.liquid path="assets/img/pubpic/2025/BIIFP_04.jpg" width="80%" %}
 </div>
 <div class="caption">
-    Heatmap illustrates overlapping rates between different pairs of fruit trees over spectral bands and textural indices. Prefix P. indicates Planet-derived information. Dendrograms group fruit tree combination and indices into identical clusters.
+    Summary of BII loss footprints: (A) overall trend of total BII loss footprint on crops and livestock from 2000 to 2020, and comparisons between average footprint and overall trend on (B) biomes, (C) countries/territories, and (D) commodities. The footprint from the livestock sector has gradually declined, whereas the footprint associated with crop production has increased persistently over time. Increases in biodiversity footprints were observed across all biomes, with particularly notable growth in tropical and subtropical moist broadleaf forests, temperate broadleaf and mixed forests, and tropical and subtropical grasslands, savannas, and shrublands. At the country level, footprints increased in nearly all countries, except for Australia and Mongolia, where substantial declines were observed. Among commodities, the most significant increases in footprints were associated with maize, wheat, and meat cattle, while a notable decrease was seen for meat sheep.
 </div>
 
 
-<div class="col-sm mt-3 mt-md-0 text-center">
-    {% include figure.liquid path="assets/img/pubpic/2025/CNN_Fruit_05.jpg" width="80%" %}
-</div>
-<div class="caption">
-    Fruit tree maps obtained from different machine learning and CNN models based on spectral and textural indices from Sentinel-2 and Planet images (left panel) and spatial agreement between classified maps and reference layer (right panel). True = Matched, False = Unmatched.
-</div>
-
-
-<div class="col-sm mt-3 mt-md-0 text-center">
-    {% include figure.liquid path="assets/img/pubpic/2025/CNN_Fruit_06.jpg" width="80%" %}
-</div>
-<div class="caption">
-    Classified fruit tree map obtained from CNN model using spectral and textural indices from Sentinel-2 and Planet images.
-</div>
 
 <br>
 
-> <p style="font-size:15px"> <b>Nguyen, C. T.*</b>, Diem, K. P.*, Nghia, D. H., Diem, N. K., Diep, N. T. H., Phan, T. N., Minh, V. Q., Quang, N. H., 2025. <b>Leveraging Convolutional Neural Networks and Textural Features for Tropical Fruit Tree Species Classification</b>. Remote Sensing Applications: Society and Environment. 39, August 2025, 101633   <a href="https://doi.org/10.1016/j.rsase.2025.101633">DOI: 10.1016/j.rsase.2025.101633</a><a href="https://canng.github.io/assets/pdf/2025_RSASE_CNN_TropiTrees.pdf">  <i class="fa-solid fa-file-pdf"></i></a></p> 
-
-Nguyen, C.T., Vačkářová, D. & Weinzettel, J. Consistent global dataset on biodiversity intactness footprint of agricultural production from 2000 to 2020. Sci Data 12, 1613 (2025). https://doi.org/10.1038/s41597-025-05901-0
+> <p style="font-size:15px"> <b>Nguyen, C. T.*</b>,  Vačkářová, D. & Weinzettel, J., 2025. <b>Consistent global dataset on biodiversity intactness footprint of agricultural production from 2000 to 2020</b>. Scientific Data, 12, 1613 <a href="ttps://doi.org/10.1038/s41597-025-05901-0">DOI: 10.1038/s41597-025-05901-0</a><a href="https://canng.github.io/assets/pdf/2025_scidata_BIIFP_Loss.pd">  <i class="fa-solid fa-file-pdf"></i></a></p> 
