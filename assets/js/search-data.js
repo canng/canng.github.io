@@ -128,8 +128,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-special-issue-on-sustainability-accepts-the-first-article",
+          title: 'Our Special Issue on Sustainability accepts the first Article 👏',
           description: "",
           section: "News",},{id: "projects-urban-environments",
           title: 'Urban Environments',
