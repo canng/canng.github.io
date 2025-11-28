@@ -16,6 +16,10 @@ Mapping fruit tree species is an essential task in agricultural planning and man
 
 <br>
 
+> <p style="font-size:15px"> <b>Nguyen, C. T.*</b>, Diem, K. P.*, Nghia, D. H., Diem, N. K., Diep, N. T. H., Phan, T. N., Minh, V. Q., Quang, N. H., 2025. <b>Leveraging Convolutional Neural Networks and Textural Features for Tropical Fruit Tree Species Classification</b>. Remote Sensing Applications: Society and Environment. 39, August 2025, 101633   <a href="https://doi.org/10.1016/j.rsase.2025.101633">DOI: 10.1016/j.rsase.2025.101633</a><a href="https://canng.github.io/assets/pdf/2025_RSASE_CNN_TropiTrees.pdf">  <i class="fa-solid fa-file-pdf"></i></a></p> 
+
+<br>
+
 
 <div class="col-sm mt-3 mt-md-0 text-center">
     {% include figure.liquid path="assets/img/pubpic/2025/CNN_Fruit_01.jpg" width="80%" %}
@@ -66,4 +70,3 @@ Mapping fruit tree species is an essential task in agricultural planning and man
 
 <br>
 
-> <p style="font-size:15px"> <b>Nguyen, C. T.*</b>, Diem, K. P.*, Nghia, D. H., Diem, N. K., Diep, N. T. H., Phan, T. N., Minh, V. Q., Quang, N. H., 2025. <b>Leveraging Convolutional Neural Networks and Textural Features for Tropical Fruit Tree Species Classification</b>. Remote Sensing Applications: Society and Environment. 39, August 2025, 101633   <a href="https://doi.org/10.1016/j.rsase.2025.101633">DOI: 10.1016/j.rsase.2025.101633</a><a href="https://canng.github.io/assets/pdf/2025_RSASE_CNN_TropiTrees.pdf">  <i class="fa-solid fa-file-pdf"></i></a></p> 

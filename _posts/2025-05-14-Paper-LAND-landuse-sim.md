@@ -16,6 +16,11 @@ Land use and land cover (LULC) in coastal areas is critical in shaping the ecolo
 
 <br>
 
+> <p style="font-size:15px"> Diep, N. T. H., Nguyen, T. N., Diem, P. K., & <b>Nguyen, C. T.</b>, 2025. <b>Benefits and Trade-Offs from Land Use and Land Cover Changes Under Different Scenarios in the Coastal Delta of Vietnam</b>. Land. 14 (5, SI: Harnessing the Power of Land Mapping Data for Effective Land Policy Development), 1063   <a href="https://doi.org/10.3390/land14051063">DOI: 10.3390/land14051063</a><a href="https://canng.github.io/assets/pdf/2025_land_LUCC_benefits_tradeoffs.pdf">  <i class="fa-solid fa-file-pdf"></i></a></p> 
+
+<br>
+
+
 <div class="col-sm mt-3 mt-md-0 text-center">
     {% include figure.liquid path="assets/img/pubpic/2025/landuse_sim_01.jpg" width="90%" %}
 </div>
@@ -40,5 +45,3 @@ Land use and land cover (LULC) in coastal areas is critical in shaping the ecolo
 
 
 <br>
-
-> <p style="font-size:15px"> Diep, N. T. H., Nguyen, T. N., Diem, P. K., & <b>Nguyen, C. T.</b>, 2025. <b>Benefits and Trade-Offs from Land Use and Land Cover Changes Under Different Scenarios in the Coastal Delta of Vietnam</b>. Land. 14 (5, SI: Harnessing the Power of Land Mapping Data for Effective Land Policy Development), 1063   <a href="https://doi.org/10.3390/land14051063">DOI: 10.3390/land14051063</a><a href="https://canng.github.io/assets/pdf/2025_land_LUCC_benefits_tradeoffs.pdf">  <i class="fa-solid fa-file-pdf"></i></a></p> 
