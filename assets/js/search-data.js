@@ -128,11 +128,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-am-pleased-to-join-the-editorial-board-of-discover-sustainability",
-          title: 'I am pleased to join the Editorial Board of Discover Sustainability 😄',
-          description: "",
-          section: "News",},{id: "news-i-am-excited-to-begin-my-role-on-ebm-of-discover-cities",
+            },},{id: "news-i-am-excited-to-begin-my-role-on-ebm-of-discover-cities",
           title: 'I am excited to begin my role on EBM of Discover Cities 👍...',
+          description: "",
+          section: "News",},{id: "news-i-am-pleased-to-join-the-editorial-board-of-discover-sustainability",
+          title: 'I am pleased to join the Editorial Board of Discover Sustainability 😄',
           description: "",
           section: "News",},{id: "news-our-special-issue-on-sustainability-accepts-the-first-article",
           title: 'Our Special Issue on Sustainability accepts the first article 👏',
