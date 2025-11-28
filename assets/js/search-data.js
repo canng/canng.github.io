@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/repositories/";
               },
-            },{id: "post-editing-a-special-issue-on-designing-resilient-cities-sustainability-mdpi",
+            },{id: "post-biodiversity-intactness-footprint-data-on-scientific-data",
+        
+          title: "📰 Biodiversity intactness footprint data on Scientific Data",
+        
+        description: "Consistent global dataset on biodiversity intactness footprint of agricultural production from 2000 to 2020",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Paper_SciData_BIIFP/";
+          
+        },
+      },{id: "post-editing-a-special-issue-on-designing-resilient-cities-sustainability-mdpi",
         
           title: "📢 Editing a Special Issue on Designing Resilient Cities (Sustainability, MDPI)",
         
@@ -87,7 +98,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/SI-Sustainability/";
+            window.location.href = "/blog/2025/SI-Sustainability-copy/";
           
         },
       },{id: "post-deep-learning-for-fruit-tree-classification-on-rsase",
