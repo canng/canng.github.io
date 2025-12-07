@@ -123,6 +123,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/Paper-LAND-landuse-sim/";
           
         },
+      },{id: "post-set-up-windows-10-machine-for-deep-learning",
+        
+          title: "Set-up Windows 10 machine for Deep Learning",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/Install_tensorflow/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
