@@ -118,7 +118,7 @@ categories: post
 
 
 
-    #### Sources
+#### Sources
 
     <https://www.lavivienpost.com/install-tensorflow-gpu-on-windows-complete-guide/>  
     <https://github.com/microsoft/vscode-jupyter/issues/9157>   
