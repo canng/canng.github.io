@@ -17,7 +17,7 @@ categories: work
 
 <br>
 
-> <p style="font-size:15px"> <b>Nguyen, C. T.*</b>,  Vačkářová, D. & Weinzettel, J., 2025. <b>Consistent global dataset on biodiversity intactness footprint of agricultural production from 2000 to 2020</b>. Scientific Data, 12, 1613 <a href="ttps://doi.org/10.1038/s41597-025-05901-0">DOI: 10.1038/s41597-025-05901-0</a><a href="https://canng.github.io/assets/pdf/2025_scidata_BIIFP_Loss.pd">  <i class="fa-solid fa-file-pdf"></i></a></p> 
+> <p style="font-size:15px"> <b>Nguyen, C. T.*</b>,  Vačkářová, D. & Weinzettel, J., 2025. <b>Consistent global dataset on biodiversity intactness footprint of agricultural production from 2000 to 2020</b>. Scientific Data, 12, 1613 <a href="https://doi.org/10.1038/s41597-025-05901-0">DOI: 10.1038/s41597-025-05901-0</a><a href="https://canng.github.io/assets/pdf/2025_scidata_BIIFP_Loss.pdf">  <i class="fa-solid fa-file-pdf"></i></a></p> 
 
 <br>
 
