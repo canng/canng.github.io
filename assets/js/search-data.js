@@ -139,6 +139,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-news-2021-04-26",
+          title: 'News_2021 04 26',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/news_2021-04-26/";
             },},{id: "news-i-am-excited-to-begin-my-role-on-ebm-of-discover-cities",
           title: 'I am excited to begin my role on EBM of Discover Cities 👍...',
           description: "",
