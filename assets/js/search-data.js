@@ -139,8 +139,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-news-2021-04-26",
-          title: 'News_2021 04 26',
+            },},{id: "news-2021-outstanding-reviewer-awards",
+          title: '2021 Outstanding Reviewer Awards',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/news_2021-04-26/";
