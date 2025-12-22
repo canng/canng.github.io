@@ -59,7 +59,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-    <h4>Elsevier (15 Journals)</h4>
+    <h4>Elsevier (16 Journals)</h4>
         (1) <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society">Sustainable Cities and Society</a>; 
         (2) <a href="https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation">Journal of Applied Earth Observation and Geoinformation</a>; 
         (3) <a href="https://www.sciencedirect.com/journal/the-egyptian-journal-of-remote-sensing-and-space-sciences">The Egyptian Journal of Remote Sensing and Space Sciences</a>; 
@@ -70,11 +70,12 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
         (8) <a href="https://www.sciencedirect.com/journal/advances-in-space-research">Advances in Space Research</a>; 
         (9) <a href="https://www.sciencedirect.com/journal/urban-climate">Urban Climate</a>; 
         (10) <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening">Urban Forestry & Urban Greening</a>; 
-        (11) <a href="https://www.sciencedirect.com/journal/environmental-and-sustainability-indicators">Environmental and Sustainability Indicators</a>;
-        (12) <a href="https://www.sciencedirect.com/journal/applied-geography">Applied Geography</a>;
-        (13) <a href="https://www.sciencedirect.com/journal/energy">Energy</a>;
-        (14) <a href="https://www.sciencedirect.com/journal/remote-sensing-applications-society-and-environment">Remote Sensing Applications: Society and Environment</a>;
-        (15) <a href="https://www.sciencedirect.com/journal/journal-of-environmental-management">Journal of Environmental Management</a>;
+        (11) <a href="https://www.sciencedirect.com/journal/environmental-and-sustainability-indicators">Environmental and Sustainability Indicators</a>; 
+        (12) <a href="https://www.sciencedirect.com/journal/applied-geography">Applied Geography</a>; 
+        (13) <a href="https://www.sciencedirect.com/journal/energy">Energy</a>; 
+        (14) <a href="https://www.sciencedirect.com/journal/remote-sensing-applications-society-and-environment">Remote Sensing Applications: Society and Environment</a>; 
+        (15) <a href="https://www.sciencedirect.com/journal/journal-of-environmental-management">Journal of Environmental Management</a>; 
+        (16) <a href="https://www.sciencedirect.com/journal/ecohydrology-and-hydrobiology">Ecohydrology & Hydrobiology</a>; 
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
         {% include figure.liquid path="assets/img/review/Elsevier.png" height="20%" %}
@@ -103,13 +104,14 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-       <h4>Taylor and Francis (6 Journals)</h4>
+       <h4>Taylor and Francis (7 Journals)</h4>
         (1) <a href="https://www.tandfonline.com/journals/tjde20">International Journal of Digital Earth</a>; 
         (2) <a href="https://www.tandfonline.com/journals/tgsi20">Geo-spatial Information Science</a>;
         (3) <a href="https://www.tandfonline.com/journals/oaes21">Sustainable Environment</a>;
         (4) <a href="https://www.tandfonline.com/journals/nurw20">Urban Water Journal</a>;
         (5) <a href="https://www.tandfonline.com/journals/tgei20">Geocarto International</a>;
         (6) <a href="https://www.tandfonline.com/journals/tabe20">Journal of Asian Architecture and Building Engineering</a>;
+        (7) <a href="https://www.tandfonline.com/journals/rapt20">Asia Pacific Journal of Tourism Research</a>;
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">    
         {% include figure.liquid path="assets/img/review/taylor_francis.jpg" height="30%" %}
