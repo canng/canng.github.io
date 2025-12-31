@@ -184,16 +184,11 @@ ninja.data = [{
           description: "Pathways towards Environmental Sustainability (2023–2027)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/21_Project_GACR/";
-            },},{id: "projects-vnu-hcm-c2024-16-07",
-          title: 'VNU-HCM-C2024-16-07',
-          description: "Assessing the situation of rural urbanization in the Long Xuyen Quadrangle under the impact of flood prevention dikes [2024-2025]",
+            },},{id: "projects-hotsat-1-id-pp0102582",
+          title: 'HOTSAT-1 (ID PP0102582)',
+          description: "Unveiling built-up patches and thermal environment in Vietnamese suburban landscapes",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/22_Project_AGU_Rural_Urbanization/";
-            },},{id: "projects-vnu-hcm-c2024-16-19",
-          title: 'VNU-HCM-C2024-16-19',
-          description: "Assessing Shifting Agriculture Land Use Structure to Adapt to Changes in Flood and Drought-Saline Intrusion Regimes in the Vietnam Mekong Delta [2024-2025]",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/23_Project_AGU_Flood_Drought/";
+              window.location.href = "/projects/22_Project_HOTSAT/";
             },},{id: "projects-cgiar-c-2022-105",
           title: 'CGIAR-C-2022-105',
           description: "Securing the food system of Asian mega-deltas for Climate and Livelihood resilience; Funded by CGIAR [2023]",
@@ -219,6 +214,16 @@ ninja.data = [{
           description: "Solution for Cloud removal on MODIS time series to Assess Variations of Rice crop Structures in the Mekong Delta region, Vietnam; Funded by Can Tho University [2017-2018]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/35_Project_Cloud/";
+            },},{id: "projects-vnu-hcm-c2024-16-19",
+          title: 'VNU-HCM-C2024-16-19',
+          description: "Assessing Shifting Agriculture Land Use Structure to Adapt to Changes in Flood and Drought-Saline Intrusion Regimes in the Vietnam Mekong Delta [2024-2025]",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/36_Project_AGU_Flood_Drought/";
+            },},{id: "projects-vnu-hcm-c2024-16-07",
+          title: 'VNU-HCM-C2024-16-07',
+          description: "Assessing the situation of rural urbanization in the Long Xuyen Quadrangle under the impact of flood prevention dikes [2024-2025]",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/37_Project_AGU_Rural_Urbanization/";
             },},{
         id: 'social-email',
         title: 'email',
