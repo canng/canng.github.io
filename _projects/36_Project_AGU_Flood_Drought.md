@@ -5,7 +5,7 @@ description: Assessing Shifting Agriculture Land Use Structure to Adapt to Chang
 img: assets/img/project_pics/HCMVNU_logo.png
 redirect: https://canng.github.io/projects/
 importance: 3
-category: Ongoing Projects
+category: Past Projects
 ---
 
 

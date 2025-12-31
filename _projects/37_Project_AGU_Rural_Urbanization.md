@@ -5,7 +5,7 @@ description: Assessing the situation of rural urbanization in the Long Xuyen Qua
 img: assets/img/project_pics/HCMVNU_logo.png
 redirect: https://canng.github.io/projects/
 importance: 2
-category: Ongoing Projects
+category: Past Projects
 ---
 
 
