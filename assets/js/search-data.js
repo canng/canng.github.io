@@ -184,8 +184,8 @@ ninja.data = [{
           description: "Pathways towards Environmental Sustainability (2023–2027)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/21_Project_GACR/";
-            },},{id: "projects-hotsat-1-id-pp0102582",
-          title: 'HOTSAT-1 (ID PP0102582)',
+            },},{id: "projects-hotsat-1-pp0102582",
+          title: 'HOTSAT-1 (PP0102582)',
           description: "Unveiling built-up patches and thermal environment in Vietnamese suburban landscapes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/22_Project_HOTSAT/";
