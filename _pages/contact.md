@@ -13,7 +13,7 @@ nav_order: 6
         José Martího 407/2 <br>
         16200 Praha 6-Veleslavín <br>
         Czech Republic </p>
-        <span class="fa-solid fa-square-phone"></span> (420) 773 705 812 <br>
+        <span class="fa-solid fa-square-phone"></span> (84) 342 455 945 <br>
         <i class="fa-solid fa-envelope"></i> trongcan.ng@gmail.com
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
