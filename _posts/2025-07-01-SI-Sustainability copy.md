@@ -43,3 +43,10 @@ We welcome contributions on green-blue infrastructure, nature-based solutions, u
     {% include figure.liquid path="assets/img/post_pics/SI_sustainability.jpg" width="90%" %}
 </div>
 
+
+<br>
+
+<div class="col-sm text-center">
+    {% include figure.liquid path="assets/img/post_pics/SI_sustainability_02.png" width="90%" %}
+</div>
+
