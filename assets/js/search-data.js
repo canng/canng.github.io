@@ -187,11 +187,6 @@ ninja.data = [{
           description: "Pathways towards Environmental Sustainability (2023–2027)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/21_Project_GACR/";
-            },},{id: "projects-hotsat-1-pp0102582",
-          title: 'HOTSAT-1 (PP0102582)',
-          description: "Unveiling built-up patches and thermal environment in Vietnamese suburban landscapes",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/22_Project_HOTSAT/";
             },},{id: "projects-ctu-2017-39",
           title: 'CTU-2017-39',
           description: "Solution for Cloud removal on MODIS time series to Assess Variations of Rice crop Structures in the Mekong Delta region, Vietnam; Funded by Can Tho University [2017-2018]",
@@ -227,6 +222,11 @@ ninja.data = [{
           description: "Assessing the situation of rural urbanization in the Long Xuyen Quadrangle under the impact of flood prevention dikes [2024-2025]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/37_Project_AGU_Rural_Urbanization/";
+            },},{id: "projects-hotsat-1-pp0102582",
+          title: 'HOTSAT-1 (PP0102582)',
+          description: "Unveiling built-up patches and thermal environment in Vietnamese suburban landscapes",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/38_Project_HOTSAT/";
             },},{
         id: 'social-email',
         title: 'email',
