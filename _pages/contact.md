@@ -50,4 +50,12 @@ infowindow.open(map,marker);
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA7i6vSafRzNMdIaq-SslU9oycP9HMR9TM&callback=myMap">
 </script>
 
+<hr>
 <br>
+<br>
+
+
+📧 Drop me a message here <a href="https://forms.gle/SZXkTCAEMRmNGSxX7"> (24/7 Response form)</a>. You can send your response whenever, yet don't forget "work-life-balance" 😊
+
+<br>
+<hr>
