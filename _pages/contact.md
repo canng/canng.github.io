@@ -6,16 +6,13 @@ nav: true
 nav_order: 6
 ---
 
-
 <br>
 <br>
-
 
 📧 Drop me a message here <a href="https://forms.gle/SZXkTCAEMRmNGSxX7"> (24/7 Response form)</a>. You can send your response whenever, yet don't forget "work-life-balance" 😊
 
 <br>
 <hr>
-
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -32,7 +29,6 @@ nav_order: 6
         Krystal campus, <span class="copyright">&copy;</span> CZP, CUNI <br>
     </div>
 </div>
-
 
 <br>
 <br>

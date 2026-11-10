@@ -2,7 +2,7 @@
 layout: page
 permalink: /services/
 title: Services
-description: 
+description:
 nav: true
 nav_order: 4
 ---
@@ -20,11 +20,8 @@ nav_order: 4
 > <p style="font-size: 18px; text-align: justify"> Over the past few years, starting from my doctoral program (2021), I have gained several opportunities to contribute to the peer-review process of over <b>30 Journals</b> from more than <b>05 Publishers</b>. </p>
 > <p style="font-size: 18px; text-algin: justify"> My goal is to ensure scientific rigor while still encouraging and helping young scientists improve their research. </p>
 
-
-
 <hr>
 <br>
-
 
 ### **Editorial Board Member**
 
@@ -33,12 +30,13 @@ nav_order: 4
 <br>
 
 ### **Guest Editor**
+
 <a href="https://www.mdpi.com/journal/sustainability/special_issues/5F78LD3752">Designing Resilient Cities: Landscape-Based Architecture and Green Space Strategies for Urban Sustainability</a> (Sustainability, MDPI)<br>
 <br>
 
 ### **Project Evaluation**
 
-<a href="https://www.ncn.gov.pl/en/finansowanie-nauki/konkursy/typy/2">PRELUDIUM</a>, National Science Center, Poland 
+<a href="https://www.ncn.gov.pl/en/finansowanie-nauki/konkursy/typy/2">PRELUDIUM</a>, National Science Center, Poland
 <br>
 <br>
 
@@ -48,7 +46,6 @@ International Association for Urban Climate<a href="https://urban-climate.org/">
 European Geosciences Union<a href="https://www.egu.eu//"> (EGU)</a><br>
 Global Land Programme <a href="https://glp.earth/users/trong-can-nguyen"> (GLP) </a><br>
 Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/services/networking/young-es-specialists-yess/"> (YESS)</a>
-
 
 <br>
 <br>
@@ -177,8 +174,6 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
     </div>
 </div>
 
-
 <br>
 
 <hr>
-

@@ -16,10 +16,9 @@ categories: work
 
 <br>
 
-
 I am currently editing a Special Issue for Sustainability on <b>"Designing Resilient Cities: Landscape-Based Architecture and Green Space Strategies for Urban Sustainability"</b>, together with: <br>
 
-<li><a href="https://scholar.google.com/citations?user=cNYcVQ0AAAAJ&hl=en">Dr. Nigel K. Downes </a> (Can Tho University, Vietnam)</li> 
+<li><a href="https://scholar.google.com/citations?user=cNYcVQ0AAAAJ&hl=en">Dr. Nigel K. Downes </a> (Can Tho University, Vietnam)</li>
 
 <li><a href="https://www.geo.lmu.de/geographie/de/personen/kontaktseite/olabisi-obaitor-4e3afe23.html">Dr. Olabisi S. Obaitor</a> (LMU Munich, Germany)</li><br>
 
@@ -32,10 +31,9 @@ We welcome contributions on green-blue infrastructure, nature-based solutions, u
 
 📅 Deadline for submissions: <b>30 June 2026</b>
 
-❓If you’re working on projects or research aligned with these themes, consider submitting your work. 
+❓If you’re working on projects or research aligned with these themes, consider submitting your work.
 
 📩 Feel free to reach out if you wish to discuss ideas before submission.
-
 
 <br>
 
@@ -43,10 +41,8 @@ We welcome contributions on green-blue infrastructure, nature-based solutions, u
     {% include figure.liquid path="assets/img/post_pics/SI_sustainability.jpg" width="90%" %}
 </div>
 
-
 <br>
 
 <div class="col-sm text-center">
     {% include figure.liquid path="assets/img/post_pics/SI_sustainability_02.png" width="90%" %}
 </div>
-

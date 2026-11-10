@@ -9,7 +9,6 @@ images:
   photoswipe: true
   spotlight: true
   venobox: true
-
 ---
 
 <div class="pswp-gallery pswp-gallery--single-column" id="gallery--getting-started">

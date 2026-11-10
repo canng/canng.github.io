@@ -153,50 +153,32 @@
       "issuer": "AIT-Vietnam",
       "url": "",
       "icon": "fa-solid fa-leaf"
-    }    
+    }
   ],
   "skills": [
     {
       "name": "Remote sensing",
       "level": "Master",
       "icon": "fa-solid fa-satellite",
-      "keywords": [
-        "ENVI",
-        "Ecognition",
-        "SNAP",
-        "Google Earth Engine"
-      ]
+      "keywords": ["ENVI", "Ecognition", "SNAP", "Google Earth Engine"]
     },
     {
       "name": "GIS",
       "level": "Master",
       "icon": "fa-solid fa-globe",
-      "keywords": [
-        "ArcGIS",
-        "QGIS",
-        "MapInfo",
-        "Global Mapper"
-      ]
+      "keywords": ["ArcGIS", "QGIS", "MapInfo", "Global Mapper"]
     },
     {
       "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "R",
-        "GEE",
-        "Python"
-      ]
+      "keywords": ["R", "GEE", "Python"]
     },
     {
       "name": "Statistics & Data Analysis",
       "level": "Master",
       "icon": "fa-solid fa-chart-column",
-      "keywords": [
-        "R",
-        "SPSS",
-        "Excel"
-      ]
+      "keywords": ["R", "SPSS", "Excel"]
     }
   ],
   "languages": [

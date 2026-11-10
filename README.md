@@ -1,1 +1,1 @@
-Change color in _variables.scss
+Change color in \_variables.scss

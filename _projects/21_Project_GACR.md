@@ -7,6 +7,3 @@ redirect: https://czp.cuni.cz/en/projects/pathways-towards-environmental-sustain
 importance: 1
 category: Ongoing Projects
 ---
-
-
-

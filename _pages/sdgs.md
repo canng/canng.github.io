@@ -6,7 +6,6 @@ nav: false
 nav_order: 7
 ---
 
-
 <br>
 
 <div class="container-fluid">
@@ -78,8 +77,5 @@ My projects and research contribute to the following Sustainable Development Goa
 </table>
 
 <br>
-
-
-
 
 ---
